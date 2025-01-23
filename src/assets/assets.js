@@ -2511,7 +2511,127 @@ export const food_list = [
     
         category: "WHISKEY"
     },
+    //ICE COLD SHOT
+    {
+        _id: "177",
+        name: "Jägermeister",
+        name_uk: "Jägermeister",
+        image: ICE_COLD_SHOT_cat,
+        gram: 0.5+"L",
+        price: 165,
+        description: "",
+        description_uk: "",
+    
+        category: "ICE COLD SHOT"
+    },
+    //ЛIKEР / LIQUEUR
+    {
+        _id: "178",
+        name: "Baileys The Original",
+        name_uk: "Baileys The Original",
+        image: LIQUEUR_cat,
+        gram: 0.05+"L",
+        price: 165,
+        description: "",
+        description_uk: "",
+    
+        category: "LIQUEUR"
+    },{
+        _id: "179",
+        name: "Cointreau",
+        name_uk: "Cointreau",
+        image: LIQUEUR_cat,
+        gram: 0.05+"L",
+        price: 111,
+        description: "",
+        description_uk: "",
+    
+        category: "LIQUEUR"
+    },{
+        _id: "180",
+        name: "Kahlua",
+        name_uk: "Kahlua",
+        image: LIQUEUR_cat,
+        gram: 0.05+"L",
+        price: 139,
+        description: "",
+        description_uk: "",
+    
+        category: "LIQUEUR"
+    },{
+        _id: "181",
+        name: "Malibu",
+        name_uk: "Malibu",
+        image: LIQUEUR_cat,
+        gram: 0.05+"L",
+        price: 143,
+        description: "",
+        description_uk: "",
+    
+        category: "LIQUEUR"
+    },{
+        _id: "182",
+        name: "Sambuca Antica Classic",
+        name_uk: "Sambuca Antica Classic",
+        image: LIQUEUR_cat,
+        gram: 0.05+"L",
+        price: 170,
+        description: "",
+        description_uk: "",
+    
+        category: "LIQUEUR"
+    },{
+        _id: "183",
+        name: "Volare (in assortment)",
+        name_uk: "Volare (в ассортименті)",
+        image: LIQUEUR_cat,
+        gram: 0.05+"L",
+        price: 109,
+        description: "",
+        description_uk: "",
+    
+        category: "LIQUEUR"
+    },{
+        _id: "184",
+        name: "Riga Black Currant",
+        name_uk: "Riga Black Currant",
+        image: LIQUEUR_cat,
+        gram: 0.05+"L",
+        price: 114,
+        description: "",
+        description_uk: "",
+    
+        category: "LIQUEUR"
+    },
+    //СИРОП/SYRUP
+    {
+        _id: "185",
+        name: "Monin",
+        name_uk: "Monin",
+        image: SYRUP_cat,
+        gram: 0.05+"L",
+        price: 87,
+        description: "",
+        description_uk: "",
+    
+        category: "SYRUP"
+    },
+    //ПИВО /BEER
+    {
+        _id: "186",
+        name: "Monin",
+        name_uk: "Monin",
+        image: BEER_cat,
+        gram: 0.05+"L",
+        price: 87,
+        description: "",
+        description_uk: "",
+    
+        category: "BEER"
+    },
 ]
+
+
 
 
 
