@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { assets } from "../../assets/assets"
 import "./Footer.css"
 import { useTranslation } from 'react-i18next';
@@ -10,9 +11,8 @@ function Footer() {
              <img src={assets.logo} alt="" />
              <p>{t('Choose-from-a-diverse-menu')}</p>
              <div className="footer-social-icons">
-                <img src={assets.facebook_icon} alt="" />
-                <img src={assets.twitter_icon} alt="" />
-                <img src={assets.linkedin_icon} alt="" />
+                
+                <Link to='https://www.instagram.com/dubaikyiv/'><img src={assets.instagram_icon} alt="" /></Link>
              </div>
            </div>
            <div className="footer-content-center">
@@ -35,7 +35,7 @@ function Footer() {
 
         </div>
          <hr/>
-         <p className="footer-copyright">Copyright 2024 © https://github.com/NizarNaser/Dubai-restaurant - {t('All-Right-Reserved')}.</p>
+         <p className="footer-copyright">Copyright 2024 © https://github.com/NizarNaser/dubai-arena - {t('All-Right-Reserved')}.</p>
     </div>
   )
 }
