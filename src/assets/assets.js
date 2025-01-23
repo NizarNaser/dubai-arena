@@ -1934,6 +1934,118 @@ export const food_list = [
         description_uk: "0.75L/989 ГРН",
 
         category: "CHANPAGNE & SPARKLING WINES"
+    },{
+        _id: "126",
+        name: "Xenta Absenta",
+        name_uk: "Xenta Absenta",
+        image: APERETIF_BITTER_TINCTURE_cat,
+        gram: 0.05+"L",
+        price: 151,
+        description: "",
+        description_uk: "",
+
+        category: "APERETIF  BITTER TINCTURE"
+    },{
+        _id: "127",
+        name: "Campari",
+        name_uk: "Campari",
+        image: APERETIF_BITTER_TINCTURE_cat,
+        gram: 0.05+"L",
+        price: 141,
+        description: "",
+        description_uk: "",
+
+        category: "APERETIF  BITTER TINCTURE"
+    },{
+        _id: "128",
+        name: "Artichoke Supag",
+        name_uk: "Супаг артишоковий",
+        image: APERETIF_BITTER_TINCTURE_cat,
+        gram: 0.05+"L",
+        price: 139,
+        description: "",
+        description_uk: "",
+
+        category: "APERETIF  BITTER TINCTURE"
+    },
+    //ГОРІЛКА/VODKA
+    {
+        _id: "129",
+        name: "ciroc",
+        name_uk: "ciroc",
+        image: VODKA_cat,
+        gram: 0.05+"L",
+        price: 220,
+        description: "",
+        description_uk: "",
+
+        category: "VODKA"
+    },{
+        _id: "130",
+        name: "Belvedere",
+        name_uk: "Belvedere",
+        image: VODKA_cat,
+        gram: 0.05+"L",
+        price: 147,
+        description: "",
+        description_uk: "",
+
+        category: "VODKA"
+    },{
+        _id: "131",
+        name: "Nemiroff De Luxe",
+        name_uk: "Nemiroff De Luxe",
+        image: VODKA_cat,
+        gram: 0.05+"L",
+        price: 95,
+        description: "",
+        description_uk: "",
+
+        category: "VODKA"
+    },{
+        _id: "132",
+        name: "Nemiroff Lex",
+        name_uk: "Nemiroff Lex",
+        image: VODKA_cat,
+        gram: 0.05+"L",
+        price: 135,
+        description: "",
+        description_uk: "",
+
+        category: "VODKA"
+    },{
+        _id: "133",
+        name: "Finland in assortment",
+        name_uk: "Фінляндія в асортименті",
+        image: VODKA_cat,
+        gram: 0.05+"L",
+        price: 135,
+        description: "",
+        description_uk: "",
+
+        category: "VODKA"
+    },{
+        _id: "134",
+        name: "Grey goose",
+        name_uk: "Grey goose",
+        image: VODKA_cat,
+        gram: 0.05+"L",
+        price: 168,
+        description: "",
+        description_uk: "",
+
+        category: "VODKA"
+    },{
+        _id: "135",
+        name: "becherovka",
+        name_uk: "becherovka",
+        image: TINCTURES_cat,
+        gram: 0.05+"L",
+        price: 115,
+        description: "",
+        description_uk: "",
+
+        category: "TINCTURES"
     },
 ]
 
