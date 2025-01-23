@@ -1868,6 +1868,73 @@ export const food_list = [
         description_uk: "",
 
         category: "CHANPAGNE & SPARKLING WINES"
+    }, {
+        _id: "120",
+        name: "Moët Chandon Rosé Impérial",
+        name_uk: "Moët Chandon Rosé Impérial",
+        image: CHANPAGNE_cat,
+        gram: 0.750+"L",
+        price: 6300,
+        description: "",
+        description_uk: "",
+
+        category: "CHANPAGNE & SPARKLING WINES"
+    },{
+        _id: "121",
+        name: "Cava Arte Latino Brut",
+        name_uk: "Cava Arte Latino Brut",
+        image: CHANPAGNE_cat,
+        gram: 0.750+"L",
+        price: 1060,
+        description: "",
+        description_uk: "",
+
+        category: "CHANPAGNE & SPARKLING WINES"
+    },{
+        _id: "122",
+        name: "Terra Serena Prosecco Spumante",
+        name_uk: "Terra Serena Prosecco Spumante",
+        image: CHANPAGNE_cat,
+        gram: 0.150+"L",
+        price: 280,
+        description: "0.75L/1105 UAH",
+        description_uk: "0.75L/1105 ГРН",
+
+        category: "CHANPAGNE & SPARKLING WINES"
+    },{
+        _id: "123",
+        name: "Crystal",
+        name_uk: "Crystal",
+        image: CHANPAGNE_cat,
+        gram: 0.750+"L",
+        price: 39020,
+        description: "",
+        description_uk: "",
+
+        category: "CHANPAGNE & SPARKLING WINES"
+    },{
+        _id: "124",
+        name: "Sensi Prosecco",
+        name_uk: "Sensi Prosecco",
+        image: CHANPAGNE_cat,
+        gram: 0.150+"L",
+        price: 203,
+        description: "0.75L/1017 UAH",
+        description_uk: "0.75L/1017 ГРН",
+
+        category: "CHANPAGNE & SPARKLING WINES"
+    },{
+        _id: "125",
+        name: "Val D'Oca Prosecco Superiore Valdobbiadene DOC 6",
+        name_uk: "Val D'Oca Prosecco Superiore Valdobbiadene DOC 6",
+        image: CHANPAGNE_cat,
+        gram: 0.150+"L",
+        price: 198,
+        description: "0.75L/989 UAH",
+        description_uk: "0.75L/989 ГРН",
+
+        category: "CHANPAGNE & SPARKLING WINES"
     },
 ]
+
 
