@@ -2104,6 +2104,414 @@ export const food_list = [
 
         category: "RUM"
     },
+    //мескаль
+    {
+        _id: "141",
+        name: "vida",
+        name_uk: "vida",
+        image: MEZCAL_cat,
+        gram: 0.05+"L",
+        price: 264,
+        description: "",
+        description_uk: "",
+
+        category: "MEZCAL"
+    },
+    //ТЕКІЛА /TEQUILA
+    {
+        _id: "142",
+        name: "True Tequila Silver",
+        name_uk: "True Tequila Silver",
+        image: TEQUILA_cat,
+        gram: 0.05+"L",
+        price: 147,
+        description: "",
+        description_uk: "",
+
+        category: "TEQUILA"
+    },{
+        _id: "143",
+        name: "True Tequila Gold",
+        name_uk: "True Tequila Gold",
+        image: TEQUILA_cat,
+        gram: 0.05+"L",
+        price: 163,
+        description: "",
+        description_uk: "",
+
+        category: "TEQUILA"
+    },{
+        _id: "144",
+        name: "Don Julio Blanco",
+        name_uk: "Don Julio Blanco",
+        image: TEQUILA_cat,
+        gram: 0.05+"L",
+        price: 215,
+        description: "",
+        description_uk: "",
+
+        category: "TEQUILA"
+    },{
+        _id: "145",
+        name: "jose cuervo traditional agava",
+        name_uk: "jose cuervo traditional agava",
+        image: TEQUILA_cat,
+        gram: 0.05+"L",
+        price: 193,
+        description: "",
+        description_uk: "",
+    
+        category: "TEQUILA"
+    },
+    //ДЖИН/GIN
+    {
+        _id: "146",
+        name: "TGordon's Premium Pink",
+        name_uk: "TGordon's Premium Pink",
+        image: GIN_cat,
+        gram: 0.05+"L",
+        price: 140,
+        description: "",
+        description_uk: "",
+    
+        category: "GIN"
+    },{
+        _id: "147",
+        name: "Tanqueray London Dry",
+        name_uk: "Tanqueray London Dry",
+        image: GIN_cat,
+        gram: 0.05+"L",
+        price: 171,
+        description: "",
+        description_uk: "",
+    
+        category: "GIN"
+    },{
+        _id: "148",
+        name: "Tanqueray NoTEN",
+        name_uk: "Tanqueray NoTEN",
+        image: GIN_cat,
+        gram: 0.05+"L",
+        price: 185,
+        description: "",
+        description_uk: "",
+    
+        category: "GIN"
+    },
+    //BRANDY, CALVADOS, GRAPPA
+    {
+        _id: "149",
+        name: "Metaxa 7 Star",
+        name_uk: "Metaxa 7 Star",
+        image: BRANDY_CALVADOS_GRAPPA_cat,
+        gram: 0.05+"L",
+        price: 133,
+        description: "",
+        description_uk: "",
+    
+        category: "BRANDY CALVADOS GRAPPA"
+    },{
+        _id: "150",
+        name: "Metaxa 12 Stars",
+        name_uk: "Metaxa 12 Stars",
+        image: BRANDY_CALVADOS_GRAPPA_cat,
+        gram: 0.05+"L",
+        price: 209,
+        description: "",
+        description_uk: "",
+    
+        category: "BRANDY CALVADOS GRAPPA"
+    },{
+        _id: "151",
+        name: "Calvados Paul Devoille VSOP",
+        name_uk: "Calvados Paul Devoille VSOP",
+        image: BRANDY_CALVADOS_GRAPPA_cat,
+        gram: 0.05+"L",
+        price: 139,
+        description: "",
+        description_uk: "",
+    
+        category: "BRANDY CALVADOS GRAPPA"
+    },
+    //Коньяк/СOGNAC
+    {
+        _id: "152",
+        name: "Rémy Martin VS Superieur",
+        name_uk: "Rémy Martin VS Superieur",
+        image: СOGNAC_cat,
+        gram: 0.05+"L",
+        price: 279,
+        description: "",
+        description_uk: "",
+    
+        category: "СOGNAC"
+    },{
+        _id: "153",
+        name: "Rémy Martin VSOP",
+        name_uk: "Rémy Martin VSOP",
+        image: СOGNAC_cat,
+        gram: 0.05+"L",
+        price: 488,
+        description: "",
+        description_uk: "",
+    
+        category: "СOGNAC"
+    },{
+        _id: "154",
+        name: "Hennessy Very Special",
+        name_uk: "Hennessy Very Special",
+        image: СOGNAC_cat,
+        gram: 0.05+"L",
+        price: 248,
+        description: "",
+        description_uk: "",
+    
+        category: "СOGNAC"
+    },{
+        _id: "155",
+        name: "Hennessy VSOP Privilège",
+        name_uk: "Hennessy VSOP Privilège",
+        image: СOGNAC_cat,
+        gram: 0.05+"L",
+        price: 456,
+        description: "",
+        description_uk: "",
+    
+        category: "СOGNAC"
+    },{
+        _id: "156",
+        name: "Ararat 5 stars",
+        name_uk: "арарат 5 звезд",
+        image: СOGNAC_cat,
+        gram: 0.05+"L",
+        price: 170,
+        description: "",
+        description_uk: "",
+    
+        category: "СOGNAC"
+    },{
+        _id: "157",
+        name: "Johnnie Walker Red Label",
+        name_uk: "Johnnie Walker Red Label",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 149,
+        description: "SCOTCH",
+        description_uk: "ШОТЛАНДСЬКИЙ",
+    
+        category: "WHISKEY"
+    },{
+        _id: "158",
+        name: "Johnnie Walker Red Rye Finish",
+        name_uk: "Johnnie Walker Red Rye Finish",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 151,
+        description: "SCOTCH",
+        description_uk: "ШОТЛАНДСЬКИЙ",
+    
+        category: "WHISKEY"
+    },{
+        _id: "159",
+        name: "Johnnie Walker Black Label 12 YO",
+        name_uk: "Johnnie Walker Black Label 12 YO",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 241,
+        description: "SCOTCH",
+        description_uk: "ШОТЛАНДСЬКИЙ",
+    
+        category: "WHISKEY"
+    },{
+        _id: "160",
+        name: "Johnnie Walker Double Black",
+        name_uk: "Johnnie Walker Double Black",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 279,
+        description: "SCOTCH",
+        description_uk: "ШОТЛАНДСЬКИЙ",
+    
+        category: "WHISKEY"
+    },{
+        _id: "161",
+        name: "Johnnie Walker Gold Label Reserve",
+        name_uk: "Johnnie Walker Gold Label Reserve",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 381,
+        description: "SCOTCH",
+        description_uk: "ШОТЛАНДСЬКИЙ",
+    
+        category: "WHISKEY"
+    },{
+        _id: "162",
+        name: "Chivas Regal 18YO",
+        name_uk: "Chivas Regal 18YO",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 584,
+        description: "SCOTCH",
+        description_uk: "ШОТЛАНДСЬКИЙ",
+    
+        category: "WHISKEY"
+    },{
+        _id: "163",
+        name: "Chivas Regal 12YO",
+        name_uk: "Chivas Regal 12YO",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 264,
+        description: "SCOTCH",
+        description_uk: "ШОТЛАНДСЬКИЙ",
+    
+        category: "WHISKEY"
+    },{
+        _id: "164",
+        name: "The Singleton of Dufftown 12 YO",
+        name_uk: "The Singleton of Dufftown 12 YO",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 311,
+        description: "SINGLE MALT",
+        description_uk: "односолодовий",
+    
+        category: "WHISKEY"
+    },{
+        _id: "165",
+        name: "Glenmorangie The Original, 10 YO",
+        name_uk: "Glenmorangie The Original, 10 YO",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 368,
+        description: "SINGLE MALT",
+        description_uk: "односолодовий",
+    
+        category: "WHISKEY"
+    },{
+        _id: "166",
+        name: "Glenmorangie Nectar D'OR, 12 YO",
+        name_uk: "Glenmorangie Nectar D'OR, 12 YO",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 384,
+        description: "SINGLE MALT",
+        description_uk: "односолодовий",
+    
+        category: "WHISKEY"
+    },{
+        _id: "167",
+        name: "Macallan",
+        name_uk: "Macallan",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 463,
+        description: "SINGLE MALT",
+        description_uk: "односолодовий",
+    
+        category: "WHISKEY"
+    },{
+        _id: "168",
+        name: "BRUICHLADDICH Scottich Barley The Classic Laddie",
+        name_uk: "BRUICHLADDICH Scottich Barley The Classic Laddie",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 433,
+        description: "SINGLE MALT",
+        description_uk: "односолодовий",
+    
+        category: "WHISKEY"
+    },{
+        _id: "169",
+        name: "Jameson",
+        name_uk: "Jameson",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 196,
+        description: "IRISH",
+        description_uk: "ІРЛАНДІЯ",
+    
+        category: "WHISKEY"
+    },{
+        _id: "170",
+        name: "Bulleit Bourbon",
+        name_uk: "Bulleit Bourbon",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 189,
+        description: "BOURBON",
+        description_uk: "БУРБОН",
+    
+        category: "WHISKEY"
+    },
+    {
+        _id: "171",
+        name: "Bulleit Rye",
+        name_uk: "Bulleit Rye",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 189,
+        description: "BOURBON",
+        description_uk: "БУРБОН",
+    
+        category: "WHISKEY"
+    },{
+        _id: "172",
+        name: "Makers Mark",
+        name_uk: "Makers Mark",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 304,
+        description: "BOURBON",
+        description_uk: "БУРБОН",
+    
+        category: "WHISKEY"
+    },{
+        _id: "173",
+        name: "Jack Daniels Single Barrel",
+        name_uk: "Jack Daniels Single Barrel",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 304,
+        description: "TENNESSEE",
+        description_uk: "TEHECI",
+    
+        category: "WHISKEY"
+    },{
+        _id: "174",
+        name: "Jack Daniels Honey",
+        name_uk: "Jack Daniels Honey",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 185,
+        description: "TENNESSEE",
+        description_uk: "TEHECI",
+    
+        category: "WHISKEY"
+    },{
+        _id: "175",
+        name: "Jack Daniels Fire",
+        name_uk: "Jack Daniels Fire",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 193,
+        description: "TENNESSEE",
+        description_uk: "TEHECI",
+    
+        category: "WHISKEY"
+    },{
+        _id: "176",
+        name: "Crown Royal De Luxe",
+        name_uk: "Crown Royal De Luxe",
+        image: WHISKEY_cat,
+        gram: 0.05+"L",
+        price: 185,
+        description: "CANADA",
+        description_uk: "КАНАДСЬКИЙ",
+    
+        category: "WHISKEY"
+    },
 ]
+
 
 
