@@ -17,10 +17,10 @@ function Navbar({setShowLogin}) {
    
   return (
     <div className='navbar'> 
-        <Link to='/'><img src={assets.logo} alt="" className='logo'/></Link>
+        <Link to='/dubai-arena/'><img src={assets.logo} alt="" className='logo'/></Link>
 
         <ul className="navbar-menu">
-            <Link  to='/Dubai-restaurant' onClick={()=>setMenu("home")} className={menu==="home"?"active":""}>{t('home')}</Link>
+            <Link  to='/dubai-arena/' onClick={()=>setMenu("home")} className={menu==="home"?"active":""}>{t('home')}</Link>
             <a href='#explore-menu' onClick={()=>setMenu("menu")} className={menu==="menu"?"active":""}>{t('menu')}</a>
             <a href='#footer'  onClick={()=>setMenu("contact-us")}className={menu==="contact-us"?"active":""}>{t('contact_us')}</a>
         </ul>
@@ -35,7 +35,7 @@ function Navbar({setShowLogin}) {
            ?<p><img src={assets.basket_icon} alt=''/></p>
            
            
-           : <Link to='/Dubai-restaurant/cart'><img src={assets.basket_icon} alt=''/></Link>}
+           : <Link to='//dubai-arena/cart'><img src={assets.basket_icon} alt=''/></Link>}
 
             <div className={getTotalCartAmount()===0?"":"dot"}>
 
