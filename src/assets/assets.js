@@ -2619,15 +2619,408 @@ export const food_list = [
     //ПИВО /BEER
     {
         _id: "186",
-        name: "Monin",
-        name_uk: "Monin",
+        name: "kronenbourg",
+        name_uk: "kronenbourg",
         image: BEER_cat,
-        gram: 0.05+"L",
-        price: 87,
+        gram: "0,33/0,5L",
+        price: "92/142",
         description: "",
         description_uk: "",
     
         category: "BEER"
+    }, {
+        _id: "187",
+        name: "blond",
+        name_uk: "blond",
+        image: BEER_cat,
+        gram: "0,33/0,5L",
+        price: "46/92",
+        description: "",
+        description_uk: "",
+    
+        category: "BEER"
+    },{
+        _id: "188",
+        name: "blanche",
+        name_uk: "blanche",
+        image: BEER_cat,
+        gram: "0,33/0,5L",
+        price: "105/163",
+        description: "",
+        description_uk: "",
+    
+        category: "BEER"
+    },{
+        _id: "189",
+        name: "Grimbergen Double-Ambree",
+        name_uk: "Grimbergen Double-Ambree",
+        image: BEER_cat,
+        gram: "0,33/0,5L",
+        price: "115/171",
+        description: "",
+        description_uk: "",
+    
+        category: "BEER"
+    },{
+        _id: "190",
+        name: "Heineken",
+        name_uk: "Heineken",
+        image: BEER_cat,
+        gram: "0,33/0,5L",
+        price: "115/135",
+        description: "BEER BOTTLED",
+        description_uk: "ПИВО ПЛЯШКОВЕ",
+    
+        category: "BEER"
+    },{
+        _id: "191",
+        name: "Corona Extra",
+        name_uk: "Corona Extra",
+        image: BEER_cat,
+        gram: "0,33L",
+        price: "142",
+        description: "BEER BOTTLED",
+        description_uk: "ПИВО ПЛЯШКОВЕ",
+    
+        category: "BEER"
+    },{
+        _id: "192",
+        name: "Guinness",
+        name_uk: "Guinness",
+        image: BEER_cat,
+        gram: "0,5L",
+        price: "148",
+        description: "BEER BOTTLED",
+        description_uk: "ПИВО ПЛЯШКОВЕ",
+    
+        category: "BEER"
+    },{
+        _id: "193",
+        name: "Warsteiner Premium Fresh 6/a",
+        name_uk: "Warsteiner Premium Fresh 6/a",
+        image: BEER_cat,
+        gram: "0,5L",
+        price: "165",
+        description: "BEER BOTTLED",
+        description_uk: "ПИВО ПЛЯШКОВЕ",
+    
+        category: "BEER"
+    },{
+        _id: "194",
+        name: "a blanche",
+        name_uk: "a blanche",
+        image: BEER_cat,
+        gram: "3.5L",
+        price: "899",
+        description: "Beer tower",
+        description_uk: "Пивна веж",
+    
+        category: "BEER"
+    },{
+        _id: "194",
+        name: "a kronenbourg",
+        name_uk: "a kronenbourg",
+        image: BEER_cat,
+        gram: "3.5L",
+        price: "799",
+        description: "Beer tower",
+        description_uk: "Пивна веж",
+    
+        category: "BEER"
+    },
+    //БЕЗАЛКОГОЛЬНІ НАПОЇ SOFT DRINKS
+    {
+        _id: "195",
+        name: "JSchweppes Тонік",
+        name_uk: "JSchweppes Тонік",
+        image: SOFT_DRINKS_cat,
+        gram: "0.20L",
+        price: 83,
+        description: "",
+        description_uk: "",
+    
+        category: "SOFT DRINKS"
+    },{
+        _id: "196",
+        name: "pepsi",
+        name_uk: "pepsi",
+        image: SOFT_DRINKS_cat,
+        gram: "0.25L",
+        price: 65,
+        description: "",
+        description_uk: "",
+    
+        category: "SOFT DRINKS"
+    },{
+        _id: "197",
+        name: "mirinda",
+        name_uk: "mirinda",
+        image: SOFT_DRINKS_cat,
+        gram: "0.25L",
+        price: 65,
+        description: "",
+        description_uk: "",
+    
+        category: "SOFT DRINKS"
+    },{
+        _id: "198",
+        name: "7up",
+        name_uk: "7up",
+        image: SOFT_DRINKS_cat,
+        gram: "0.25L",
+        price: 65,
+        description: "",
+        description_uk: "",
+    
+        category: "SOFT DRINKS"
+    },{
+        _id: "199",
+        name: " Morshinska Sparkling Water",
+        name_uk: "Моршинська газ",
+        image: SOFT_DRINKS_cat,
+        gram: "0.33L",
+        price: 65,
+        description: "",
+        description_uk: "",
+    
+        category: "SOFT DRINKS"
+    },{
+        _id: "200",
+        name: "Morshinska Mineral Water",
+        name_uk: "Моршинська б/г",
+        image: SOFT_DRINKS_cat,
+        gram: "0.33L",
+        price: 65,
+        description: "",
+        description_uk: "",
+    
+        category: "SOFT DRINKS"
+    },{
+        _id: "201",
+        name: "Morshinska Water",
+        name_uk: "Моршинська",
+        image: SOFT_DRINKS_cat,
+        gram: "0.75L",
+        price: 121,
+        description: "",
+        description_uk: "",
+    
+        category: "SOFT DRINKS"
+    },{
+        _id: "202",
+        name: "Borjomi",
+        name_uk: "Боржомі",
+        image: SOFT_DRINKS_cat,
+        gram: "0.33L",
+        price: 108,
+        description: "",
+        description_uk: "",
+    
+        category: "SOFT DRINKS"
+    },{
+        _id: "203",
+        name: "Perrier",
+        name_uk: "Perrier",
+        image: SOFT_DRINKS_cat,
+        gram: "0.33L",
+        price: 121,
+        description: "",
+        description_uk: "",
+    
+        category: "SOFT DRINKS"
+    },{
+        _id: "204",
+        name: "Evian",
+        name_uk: "Evian",
+        image: SOFT_DRINKS_cat,
+        gram: "0.25L",
+        price: 146,
+        description: "",
+        description_uk: "",
+    
+        category: "SOFT DRINKS"
+    },{
+        _id: "205",
+        name: "Juices in assortment Rich",
+        name_uk: "Сік в асортименті Rich",
+        image: SOFT_DRINKS_cat,
+        gram: "0.25L",
+        price: 62,
+        description: "",
+        description_uk: "",
+    
+        category: "SOFT DRINKS"
+    },{
+        _id: "206",
+        name: "Red Bull",
+        name_uk: "Ред Булл",
+        image: SOFT_DRINKS_cat,
+        gram: "0.25L",
+        price: 135,
+        description: "",
+        description_uk: "",
+    
+        category: "SOFT DRINKS"
+    },
+    //Фреш в асортименті /Fresh Juices
+    {
+        _id: "207",
+        name: "Pineapple fresh",
+        name_uk: "Ананасовий",
+        image: Fresh_Juices_cat,
+        gram: "0.25L",
+        price: 317,
+        description: "",
+        description_uk: "",
+    
+        category: "Fresh Juices"
+    },{
+        _id: "208",
+        name: "Pomegranate fresh",
+        name_uk: "Гранатовий",
+        image: Fresh_Juices_cat,
+        gram: "0.25L",
+        price: 317,
+        description: "",
+        description_uk: "",
+    
+        category: "Fresh Juices"
+    },{
+        _id: "209",
+        name: "Orange fresh",
+        name_uk: "Апельсиновий",
+        image: Fresh_Juices_cat,
+        gram: "0.25L",
+        price: 215,
+        description: "",
+        description_uk: "",
+    
+        category: "Fresh Juices"
+    },{
+        _id: "210",
+        name: "Grapefruit fresh",
+        name_uk: "Грейпфрутовий",
+        image: Fresh_Juices_cat,
+        gram: "0.25L",
+        price: 235,
+        description: "",
+        description_uk: "",
+    
+        category: "Fresh Juices"
+    },{
+        _id: "211",
+        name: "Apple fresh",
+        name_uk: "Яблучний",
+        image: Fresh_Juices_cat,
+        gram: "0.25L",
+        price: 167,
+        description: "",
+        description_uk: "",
+    
+        category: "Fresh Juices"
+    },{
+        _id: "212",
+        name: "Lemon fresh",
+        name_uk: "Лимонний",
+        image: Fresh_Juices_cat,
+        gram: "0.25L",
+        price: 317,
+        description: "",
+        description_uk: "",
+    
+        category: "Fresh Juices"
+    },{
+        _id: "213",
+        name: "Carrot fresh",
+        name_uk: "Морквяний",
+        image: Fresh_Juices_cat,
+        gram: "0.25L",
+        price: 121,
+        description: "",
+        description_uk: "",
+    
+        category: "Fresh Juices"
+    },{
+        _id: "214",
+        name: "Mix fresh",
+        name_uk: "Мікс фреш",
+        image: Fresh_Juices_cat,
+        gram: "0.25L",
+        price: 285,
+        description: "",
+        description_uk: "",
+    
+        category: "Fresh Juices"
+    },
+    //ЛИМОНАД LEMONADE
+    {
+        _id: "215",
+        name: "Pomegranate lemonade with barberry",
+        name_uk: "Лимонад барбарис-гранат",
+        image: LEMONADE_cat,
+        gram: "0.3L",
+        price: 125,
+        description: "Soda, syrup pomegranate, syrup barberry, emon fresh",
+        description_uk: "Содова,сироп гранат, сироп барбарис, лимонний фреш, ягоди годжі",
+    
+        category: "LEMONADE"
+    },{
+        _id: "216",
+        name: "Lemonade with tarragon and basil",
+        name_uk: "Лимонад тархун-базилік",
+        image: LEMONADE_cat,
+        gram: "0.3L",
+        price: 125,
+        description: "Soda,lemon fresh,syrup tarragon, fresh basil goji berries",
+        description_uk: "Содова, сироп тархун, свіжий базилік,лимон",
+    
+        category: "LEMONADE"
+    },{
+        _id: "217",
+        name: "Natakhtari",
+        name_uk: "Натахтарі груша",
+        image: LEMONADE_cat,
+        gram: "0.3L",
+        price: 132,
+        description: "",
+        description_uk: "",
+    
+        category: "LEMONADE"
+    },{
+        _id: "218",
+        name: "Citrus lemonade",
+        name_uk: "Лимонад цитрусовий",
+        image: LEMONADE_cat,
+        gram: "0.3L",
+        price: 132,
+        description: "apple juice, orange juice, apple syrup, Fresh lemon, soda",
+        description_uk: "сік яблучний, апельсиновий, сироп яблуко, Фреш лимон, содова",
+    
+        category: "LEMONADE"
+    },{
+        _id: "219",
+        name: "Tropical lemonade",
+        name_uk: "Лимонад тропічний",
+        image: LEMONADE_cat,
+        gram: "0.3L",
+        price: 132,
+        description: "passion fruit syrup, banana syrup, pineapple juice, coconut milk, sugar syrup, fresh lemon",
+        description_uk: "сироп маракуя, сироп банан, сік ананас,молоко кокос., сироп цукровий,Фреш лимон",
+    
+        category: "LEMONADE"
+    },
+    //БЕЗАЛКОГОЛЬНІ КОКТЕЙЛІ NON-ALCOHOLIC COCTAILS
+    {
+        _id: "220",
+        name: "Tropical lemonade",
+        name_uk: "Лимонад тропічний",
+        image: LEMONADE_cat,
+        gram: "0.3L",
+        price: 132,
+        description: "passion fruit syrup, banana syrup, pineapple juice, coconut milk, sugar syrup, fresh lemon",
+        description_uk: "сироп маракуя, сироп банан, сік ананас,молоко кокос., сироп цукровий,Фреш лимон",
+    
+        category: "LEMONADE"
     },
 ]
 
