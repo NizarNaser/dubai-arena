@@ -35,7 +35,7 @@ function Navbar({setShowLogin}) {
            ?<p><img src={assets.basket_icon} alt=''/></p>
            
            
-           : <Link to='//dubai-arena/cart'><img src={assets.basket_icon} alt=''/></Link>}
+           : <Link to='/dubai-arena/cart'><img src={assets.basket_icon} alt=''/></Link>}
 
             <div className={getTotalCartAmount()===0?"":"dot"}>
 

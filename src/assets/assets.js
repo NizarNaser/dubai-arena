@@ -1759,7 +1759,7 @@ export const food_list = [
         _id: "111",
         name: "Dourthe No1 Bordeaux Rouge",
         name_uk: "Dourthe No1 Bordeaux Rouge",
-        image: Fruchtscheiben_500,
+        image: wine_cat,
         gram: 0.75+"L",
         price: 1428,
         description: "RED/FRANCE",
@@ -1770,7 +1770,7 @@ export const food_list = [
         _id: "112",
         name: "Domini Veneti -Valpolicella Classico-",
         name_uk: "Domini Veneti -Valpolicella Classico-",
-        image: Fruchtscheiben_500,
+        image: wine_cat,
         gram: 0.75+"L",
         price: 1891,
         description: "RED/ITALY",
@@ -1779,15 +1779,95 @@ export const food_list = [
         category: "WINE"
     },{
         _id: "112",
-        name: "Casillero del Diablo Merlot-розлив",
+        name: "Casillero del Diablo Merlot-spill",
         name_uk: "Casillero del Diablo Merlot-розлив",
-        image: Fruchtscheiben_500,
+        image: wine_cat,
         gram: 0.150+"L",
-        price: "175",
-        description: "RED/CHILE 0.75L/1017 g",
-        description_uk: "ЧЕРВОНЕ/ЧИЛІ 0.75L/1017грн",
+        price: 175,
+        description: "RED/CHILE  - 0.75L/879 UAH ",
+        description_uk: "ЧЕРВОНЕ/ЧИЛІ  - 0.75L/879 ГРН",
 
         category: "WINE"
+    },{
+        _id: "113",
+        name: "del Diablo Cabernet Sauvignon -spill",
+        name_uk: "del Diablo Cabernet Sauvignon -розлив",
+        image: wine_cat,
+        gram: 0.150+"L",
+        price: 203,
+        description: "RED/CHILE  - 0.75L/1017 UAH ",
+        description_uk: "ЧЕРВОНЕ/ЧИЛІ  - 0.75L/1017 ГРН",
+
+        category: "WINE"
+    },{
+        _id: "114",
+        name: "Settesori Pinot Grigio -spill",
+        name_uk: "Settesori Pinot Grigio -розлив",
+        image: wine_cat,
+        gram: 0.150+"L",
+        price: 215,
+        description: "WHITE ",
+        description_uk: "БІЛЕ ",
+
+        category: "WINE"
+    },{
+        _id: "115",
+        name: "Latinium Riesling -spill",
+        name_uk: "Latinium Riesling -розлив",
+        image: wine_cat,
+        gram: 0.150+"L",
+        price: 165,
+        description: "WHITE ",
+        description_uk: "БІЛЕ ",
+
+        category: "WINE"
+    },{
+        _id: "116",
+        name: "Latinium Gewurztraminer -spill",
+        name_uk: "Latinium Gewurztraminer -розлив",
+        image: wine_cat,
+        gram: 0.150+"L",
+        price: 165,
+        description: "WHITE ",
+        description_uk: "БІЛЕ ",
+
+        category: "WINE"
+    },{
+        _id: "117",
+        name: "Casillerodel Diablo Merlot -spill",
+        name_uk: "Casillerodel Diablo Merlot -розлив",
+        image: wine_cat,
+        gram: 0.150+"L",
+        price: 221,
+        description: "RED - 0.75L/1105 UAH  ",
+        description_uk: "ЧЕРВОНЕ  - 0.75L/1105 ГРН",
+
+        category: "WINE"
+    },{
+        _id: "118",
+        name: "Casillero del Diablo Carmener -spill",
+        name_uk: "Casillero del Diablo Carmener -розлив",
+        image: wine_cat,
+        gram: 0.150+"L",
+        price: 221,
+        description: "RED - 0.75L/1105 UAH ",
+        description_uk: "ЧЕРВОНЕ - 0.75L/1105 грн ",
+
+        category: "WINE"
+    },
+    //ШАМПАНСЬКЕ ТА ІГРИСТЕ
+    
+    {
+        _id: "119",
+        name: "Moët Chandon Impérial",
+        name_uk: "Moët Chandon Impérial",
+        image: CHANPAGNE_cat,
+        gram: 0.750+"L",
+        price: 5740,
+        description: "",
+        description_uk: "",
+
+        category: "CHANPAGNE & SPARKLING WINES"
     },
 ]
 
