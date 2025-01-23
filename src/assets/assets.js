@@ -2047,6 +2047,63 @@ export const food_list = [
 
         category: "TINCTURES"
     },
+    //POM/RUM
+    {
+        _id: "136",
+        name: "Captain Morgan White Rum",
+        name_uk: "Captain Morgan White Rum",
+        image: RUM_cat,
+        gram: 0.05+"L",
+        price: 143,
+        description: "",
+        description_uk: "",
+
+        category: "RUM"
+    },{
+        _id: "137",
+        name: "Captain Morgan Original Spiced Gold",
+        name_uk: "Captain Morgan Original Spiced Gold",
+        image: RUM_cat,
+        gram: 0.05+"L",
+        price: 143,
+        description: "",
+        description_uk: "",
+
+        category: "RUM"
+    },{
+        _id: "138",
+        name: "Captain Morgan Dark Rum",
+        name_uk: "Captain Morgan Dark Rum",
+        image: RUM_cat,
+        gram: 0.05+"L",
+        price: 143,
+        description: "",
+        description_uk: "",
+
+        category: "RUM"
+    },{
+        _id: "139",
+        name: "Captain Morgan Black Spiced",
+        name_uk: "Captain Morgan Black Spiced",
+        image: RUM_cat,
+        gram: 0.05+"L",
+        price: 151,
+        description: "",
+        description_uk: "",
+
+        category: "RUM"
+    },{
+        _id: "140",
+        name: "Zacapa 23",
+        name_uk: "Zacapa 23",
+        image: RUM_cat,
+        gram: 0.05+"L",
+        price: 368,
+        description: "",
+        description_uk: "",
+
+        category: "RUM"
+    },
 ]
 
 
