@@ -3014,15 +3014,400 @@ export const food_list = [
     //БЕЗАЛКОГОЛЬНІ КОКТЕЙЛІ NON-ALCOHOLIC COCTAILS
     {
         _id: "220",
-        name: "Tropical lemonade",
-        name_uk: "Лимонад тропічний",
-        image: LEMONADE_cat,
-        gram: "0.3L",
-        price: 132,
-        description: "passion fruit syrup, banana syrup, pineapple juice, coconut milk, sugar syrup, fresh lemon",
-        description_uk: "сироп маракуя, сироп банан, сік ананас,молоко кокос., сироп цукровий,Фреш лимон",
+        name: "Sunlight",
+        name_uk: "Сонячне світло",
+        image: NON_ALCOHOLIC_COCTAILS_cat,
+        gram: "0.4L",
+        price: 172,
+        description: "Orange juice, banana, honey syrup, lemon fresh",
+        description_uk: "Апельсиновий сік,банан, медовий сироп, лимонний фреш",
     
-        category: "LEMONADE"
+        category: "NON-ALCOHOLIC COCTAILS"
+    },{
+        _id: "221",
+        name: "Mojito",
+        name_uk: "Мохіто",
+        image: NON_ALCOHOLIC_COCTAILS_cat,
+        gram: "0.4L",
+        price: 211,
+        description: "Soda, lime, mint, syrup lemon, cane syrup",
+        description_uk: "Содова,лайм, м'ята, сироп ранчо,лимон,тростинний сироп", 
+        category: "NON-ALCOHOLIC COCTAILS"
+    },{
+        _id: "222",
+        name: "Strawberry Mojito",
+        name_uk: "Мохіто полуничний",
+        image: NON_ALCOHOLIC_COCTAILS_cat,
+        gram: "0.4L",
+        price: 199,
+        description: "Soda,strawberry, mint,ime, syrup lemon, cane syrup",
+        description_uk: "Содова, лайм,м*ята,полуниця, сироп ранчо, лимон,тростинний сироп", 
+        category: "NON-ALCOHOLIC COCTAILS"
+    },{
+        _id: "223",
+        name: "Pistachio Milkshake",
+        name_uk: "Мілк шейк фісташковий",
+        image: NON_ALCOHOLIC_COCTAILS_cat,
+        gram: "0.4L",
+        price: 147,
+        description: "Milk,Pistachio ice cream, creame, syrup pistachio",
+        description_uk: "Молоко, морозиво Фісташкове, вершки,сироп фісташковий", 
+        category: "NON-ALCOHOLIC COCTAILS"
+    },{
+        _id: "224",
+        name: "Pistachio Milkshake",
+        name_uk: "Мілк шейк банановий",
+        image: NON_ALCOHOLIC_COCTAILS_cat,
+        gram: "0.4L",
+        price: 153,
+        description: "Milk, banana, ice cream, cream, banana syrup",
+        description_uk: "Молоко, банан,морозиво, вершки сироп банановий", 
+        category: "NON-ALCOHOLIC COCTAILS"
+    },{
+        _id: "225",
+        name: "Pistachio Milkshake",
+        name_uk: "Мілк шейк полуничний",
+        image: NON_ALCOHOLIC_COCTAILS_cat,
+        gram: "0.4L",
+        price: 151,
+        description: "Milk, ice cream, cream, strawberry syrup",
+        description_uk: " Молоко, морозиво,вершки сироп полуничний", 
+        category: "NON-ALCOHOLIC COCTAILS"
+    },{
+        _id: "226",
+        name: "Pistachio Milkshake",
+        name_uk: "Мілк шейк шоколадний",
+        image: NON_ALCOHOLIC_COCTAILS_cat,
+        gram: "0.4L",
+        price: 153,
+        description: "Milk, ice cream, cream, chocolate syrup",
+        description_uk: "Молоко, морозиво, вершки сироп шоколадний", 
+        category: "NON-ALCOHOLIC COCTAILS"
+    },
+    //КЛАСИЧНІ КОКТЕЙЛІ CLASSIC COCKTAILS
+    {
+        _id: "226",
+        name: "Old Fashioned",
+        name_uk: "Олд-Фешен ",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.09L",
+        price: 171,
+        description: " Bulleit Bourbon, Angostura, orange peel",
+        description_uk: "Bulleit Bourbon, Angostura, апельсинова цедра", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "227",
+        name: "Negroni",
+        name_uk: "Негроні ",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.120L",
+        price: 167,
+        description: "Torino Rosso Montanaro, Tanqueray, Campari, kumquat",
+        description_uk: "Torino Rosso Montanaro, Gordons, Campari, кумкват", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "228",
+        name: "White Lady",
+        name_uk: "Біла Леді ",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.140L",
+        price: 139,
+        description: "White LadyGordons, Cointreau, fresh lime, lemon peel",
+        description_uk: "Tanqueray,Cointreau, лимонний фреш, цедра лимона", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "229",
+        name: "Manhattan ",
+        name_uk: "Манхеттен",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.150L",
+        price: 203,
+        description: "Bulleit Bourbon, Martini Rosso,Angostura",
+        description_uk: "Bulleit Bourbon, Martini Rosso, Angostura", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "230",
+        name: "Apple Martini",
+        name_uk: "Яблучний Мартіні",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.80L",
+        price: 121,
+        description: "Tanqueray, Torino Extra Dry Montanaro, apple liquor",
+        description_uk: "Tanqueray, Torino Extra Dry Montanaro,лікер яблучний", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "231",
+        name: "Mai Tai",
+        name_uk: "Май-Тай",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.150L",
+        price: 173,
+        description: "Tanqueray, Torino Extra Dry Montanaro, apple liqueur",
+        description_uk: "Tanqueray, Torino Extra Dry Montanaro, яблучний лікер", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "232",
+        name: "Daiquiri with honey and basil",
+        name_uk: "Дайкірі з медом та базиліком ",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.120L",
+        price: 163,
+        description: "Captain Morgan White Rum, honey syrup, basil",
+        description_uk: "Captain Morgan White Rum, медовий сироп, базилік", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "233",
+        name: "Green Fairy",
+        name_uk: "Зелена Фея",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.340L",
+        price: 290,
+        description: "Xenta Absenta, True Tequila Silver, Rada,Captain Morgan White Rum, RedBull, liquor Blue-Curacao, liquor melon, freshlemon",
+        description_uk: "Xenta Absenta,True Tequila Silver, Rada, Captain Morgan White Rum, RedBull, лікер блю-кюрасао, лікер диня, фреш лимона", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "234",
+        name: "Flirt of Margarita",
+        name_uk: "Флірт Маргарита",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.250L",
+        price: 172,
+        description: "True Tequila Gold,Campari, Sprite, fruitfruit syrup, orange",
+        description_uk: "True Tequila Gold, Campari, спрайт,сироп маракуя, апельсин", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "235",
+        name: "Long Island",
+        name_uk: "Лонг-Айленд ",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.350L",
+        price: 290,
+        description: "Rada,Captain Morgan White Rum, Gordons, True Tequila Silver, Triple Sec ,fresh lime, Coca-Cola",
+        description_uk: "Лонг-Айленд Rada, Captain Morgan White Rum, Tanqueray,True Tequila Silver, Triple Sec,фреш лайма, Coca-Cola", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "236",
+        name: "Aperol Spritz",
+        name_uk: "Aperol Spritz",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.230L",
+        price: 155,
+        description: "Aperol, Prosecco, Soda",
+        description_uk: "Aperol, Prosecco,содова", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "236",
+        name: "Pino Colada",
+        name_uk: "Піно Колада",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.250L",
+        price: 181,
+        description: "Morgan white rum, Malibu, coconut syrup, pineapple juice, orange",
+        description_uk: " ром морган білий, малібу, сироп кокосовий, ананас.сік, апельсин", 
+        category: "CLASSIC COCKTAILS"
+    },
+    {
+        _id: "237",
+        name: "Bloody Mary",
+        name_uk: "Кровава Мері",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.120L",
+        price: 161,
+        description: "RADA Premium Classic, tomato juice, salt, pepper, Worcestershire, Tabasco, lemon juice",
+        description_uk: "RADA Premium Classic, сік томатний, сіль,перець, ворчестер, табаска, лимонний фреш", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "238",
+        name: "Маргарита",
+        name_uk: "Маргарита",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.120L",
+        price: 186,
+        description: "True Tequila, Volare Triple Sec liqueur, fresh lime, lime",
+        description_uk: "True Tequila, лікер Воларе Тріпл Сек,фреш лайм, лайм", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "239",
+        name: "Strawberry Margarita",
+        name_uk: "Маргарита полунична",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.120L",
+        price: 186,
+        description: "True Tequila, Volare Triple Sec liqueur, fresh lime, strawberry syrup, lime",
+        description_uk: " True Tequila, лікер Воларе Тріпл Сек, фреш лайм, сироп полуничний, лайм", 
+        category: "CLASSIC COCKTAILS"
+    },{
+        _id: "240",
+        name: "Hugo",
+        name_uk: "Хуго",
+        image: CLASSIC_COCKTAILS_cat,
+        gram: "0.350L",
+        price: 179,
+        description: " Lambrusco Bianco, soda, syrup, lime, mint",
+        description_uk: " Ламбруско Б'янко,содова, сироп, лайм, м'ята", 
+        category: "CLASSIC COCKTAILS"
+    },
+    //ШОТ-ДРІНК  SHOT-DRINK
+    {
+        _id: "241",
+        name: "Green Mexican",
+        name_uk: "Зелений мексиканець",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 160,
+        description: "Banana liquor, fresh lime, True Tequila Silver",
+        description_uk: "Банановий лікер, фреш лайма, True Tequila Silver", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "242",
+        name: "B-52",
+        name_uk: "Б-52",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 172,
+        description: "Kahlua, Baileys, Cointreau",
+        description_uk: "Калуа, Бейліс, Куантро", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "243",
+        name: "Hiroshima",
+        name_uk: "Хіросіма",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 180,
+        description: " Sambuca, Baileys, Xenta Absenta, grenadine",
+        description_uk: " Самбука, Бейліз, Ксента Абсента, Гренадін", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "244",
+        name: "Jellyfish ",
+        name_uk: "Медуза",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 160,
+        description: "Malibu, Triple Sec, rum white, Baileys, Blue Curacao",
+        description_uk: " Малібу, Тріпл сек, ром білий,бейліз, блю курасаю", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "245",
+        name: "Bacchus ",
+        name_uk: "Бахус",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 180,
+        description: " Metaxa 7, liquor apricot, dried apricots",
+        description_uk: " Metaxa 7, фреш лайма,лікер абрикосовий, курага", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "246",
+        name: "Pilot ",
+        name_uk: "Пілот",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 160,
+        description: " xenta Absenta, Lambrusco bianco",
+        description_uk: " ксента Абсента, Ламбруско б'янко", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "247",
+        name: "BMW ",
+        name_uk: "BMW",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 160,
+        description: "Baileys, Malibu, Red Label",
+        description_uk: " Бейліз, Малібу, РедЛейбл", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "248",
+        name: "Innocent sex ",
+        name_uk: "Невинний секс",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 160,
+        description: "Sambuca,Baileys, Triple Sec",
+        description_uk: "Самбука,Бейліз,Тріпл Сек", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "249",
+        name: "Kazantip",
+        name_uk: "Казантип",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 172,
+        description: "grenadine, liquor coffee, Sambuca, Baileys, Absenta",
+        description_uk: " гренадин,лікер кава, самбука, бейліз, абсент", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "250",
+        name: "Cocaine",
+        name_uk: "Кокаїн",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 172,
+        description: " sambuca(cold), fresh lemon, Real Tequila Gold",
+        description_uk: "  самбука (холодна), фреш лимона, Справжня текіла золото", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "251",
+        name: "Audi",
+        name_uk: "Ауді",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 172,
+        description: " sambuca, triple sec, malibu, tequila",
+        description_uk: " самбука, тріпл сек, малібу,текіла", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "252",
+        name: "Lobotomy",
+        name_uk: "Лоботомія",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 172,
+        description: " coffee liqueur, triple sec, white tequila, tabasco",
+        description_uk: " лікер кавовий, тріпл сек, текіла біла,табаско", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "253",
+        name: "Opium",
+        name_uk: "Опіум",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 172,
+        description: " sambuca, becherivka, absinthe",
+        description_uk: " самбука, бехерівка, абсент", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "254",
+        name: "Dragon's Eye",
+        name_uk: "Око Дракона",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 180,
+        description: " Peach liqueur, lemon fresh, absinthe, cherry",
+        description_uk: " Лікер персиковий,фреш лимона, абсент, вишня", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "255",
+        name: "B-53",
+        name_uk: "Б-53",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 172,
+        description: " Coffee liqueur, Baileys, absinthe",
+        description_uk: " Лікер кавовий, бейліз,абсент", 
+        category: "SHOT-DRINK"
+    },{
+        _id: "256",
+        name: "Bacchus",
+        name_uk: "Бахус",
+        image: SHOT_DRINK_cat,
+        gram: "0.06L",
+        price: 180,
+        description: " Peach liqueur, fresh lemon, Metaxa",
+        description_uk: "Бахус Лікер персиковий,фреш лимона, метакса", 
+        category: "SHOT-DRINK"
     },
 ]
 
