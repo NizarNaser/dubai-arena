@@ -3409,6 +3409,168 @@ export const food_list = [
         description_uk: "Бахус Лікер персиковий,фреш лимона, метакса", 
         category: "SHOT-DRINK"
     },
+    //TEA/ Чай
+    {
+        _id: "257",
+        name: "Dubai Tea",
+        name_uk: "Чай Дубаі",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 380,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "258",
+        name: "English Breakfast",
+        name_uk: "Чай чорний",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 133,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "259",
+        name: "Tea with thyme and cardamom",
+        name_uk: "Чай чорний з чебрецем та кардамоном",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 155,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "260",
+        name: "Green tea Sencha",
+        name_uk: "Чай зелений Сенча",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 133,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "261",
+        name: "Green tea with jasmine",
+        name_uk: "Чай зелений з жасмином",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 133,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "262",
+        name: "Теа Wellness Cup",
+        name_uk: "Чай Велнес Кап",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 133,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "263",
+        name: "Tea with chamomile",
+        name_uk: "Чай з ромашкою",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 165,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "264",
+        name: "Tea in the east",
+        name_uk: "Чай по-східному",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 270,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "265",
+        name: "Tea with sea-buckthorn",
+        name_uk: "Чай з обліпихою",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 165,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "266",
+        name: "Berry tea",
+        name_uk: "Чай ягідний",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 165,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "267",
+        name: "Apple tea",
+        name_uk: "Чай яблучний",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 165,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "268",
+        name: "Mango tea hot",
+        name_uk: "Чай гострий манго",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 165,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "269",
+        name: "Fruit tea ",
+        name_uk: "Чай фруктовий ",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 171,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "270",
+        name: "Tea with bergamot",
+        name_uk: "Чай з бергамотом ",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 171,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "271",
+        name: "Теa matcha",
+        name_uk: "Чай матча",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 147,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },{
+        _id: "272",
+        name: "Теa karak",
+        name_uk: "Чай карак",
+        image: TEA_cat,
+        gram: "0.5L",
+        price: 226,
+        description: " ",
+        description_uk: "", 
+        category: "TEA"
+    },
 ]
 
 
