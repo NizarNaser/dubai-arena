@@ -447,9 +447,9 @@ export const food_list = [
         name_uk: "Шакшука класична",
         image: Shakshuka_classic,
         gram: 400,
-        price: 176,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 202,
+        description: "",
+        description_uk: "",
 
         category: "BREAKFAST"
     },
@@ -459,9 +459,9 @@ export const food_list = [
         name_uk: "Шакшука 4 сири",
         image: Shakshuka_4_cheeses,
         gram: 450,
-        price: 210,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 225,
+        description: "",
+        description_uk: "",
 
         category: "BREAKFAST"
     },
@@ -471,9 +471,9 @@ export const food_list = [
         name_uk: "Омлет класичний",
         image: Omelet_is_classic,
         gram: 200,
-        price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 138,
+        description: "",
+        description_uk: "",
 
         category: "BREAKFAST"
     },
@@ -483,9 +483,9 @@ export const food_list = [
         name_uk: "Омлет з мисливськими ковбасками",
         image: Omelet_with_hunting_sausages,
         gram: 250,
-        price: 182,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 209,
+        description: "",
+        description_uk: "",
 
         category: "BREAKFAST"
     },
@@ -495,9 +495,9 @@ export const food_list = [
         name_uk: "Омлет з овочами",
         image: Omelet_with_vegetables,
         gram: 250,
-        price: 175,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 201,
+        description: "",
+        description_uk: "",
 
         category: "BREAKFAST"
     },
@@ -507,9 +507,9 @@ export const food_list = [
         name_uk: "Омлет 4 сири",
         image: Omelette_4_cheeses,
         gram: 250,
-        price: 175,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 201,
+        description: "",
+        description_uk: "",
 
         category: "BREAKFAST"
     },
@@ -519,9 +519,9 @@ export const food_list = [
         name_uk: "Фалафель",
         image: Falafel,
         gram: 400,
-        price: 164,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 188,
+        description: "",
+        description_uk: "",
 
         category: "BREAKFAST"
     },
@@ -531,9 +531,9 @@ export const food_list = [
         name_uk: "сирники з полуничним варенням і медом",
         image: cheesecakes_with_strawberry_jam_and_honey,
         gram: 180,
-        price: 124,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 142,
+        description: "",
+        description_uk: "",
 
         category: "BREAKFAST"
     },
@@ -543,9 +543,9 @@ export const food_list = [
         name_uk: "Вівсяна каша",
         image: Oatmeal,
         gram: 350,
-        price: 119,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 136,
+        description: "",
+        description_uk: "",
 
         category: "BREAKFAST"
     },
@@ -555,9 +555,9 @@ export const food_list = [
         name_uk: "Вівсяна каша з фруктами",
         image: Oatmeal_with_fruit,
         gram: 450,
-        price: 147,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 170,
+        description: "",
+        description_uk: "",
 
         category: "BREAKFAST"
     },
@@ -568,9 +568,9 @@ export const food_list = [
         name_uk: "Крем-суп з сочевиці",
         image: Lentil_Cream_Soup,
         gram: 350,
-        price: 114,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 131,
+        description: "",
+        description_uk: "",
 
         category: "SOUP"
     }, {
@@ -579,9 +579,9 @@ export const food_list = [
         name_uk: "Український борщ",
         image: Ukrainian_Borsch,
         gram: 350,
-        price: 96,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 110,
+        description: "",
+        description_uk: "",
 
         category: "SOUP"
     }, {
@@ -590,9 +590,9 @@ export const food_list = [
         name_uk: "Суп курячий з домашньою локшиною",
         image: Chicken_Soup_with_Homemade_Noodles,
         gram: 350,
-        price: 133,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 152,
+        description: "",
+        description_uk: "",
 
         category: "SOUP"
     }, {
@@ -601,9 +601,9 @@ export const food_list = [
         name_uk: "Табулі",
         image: Tabbouleh,
         gram: 200,
-        price: 189,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 217,
+        description: "",
+        description_uk: "",
 
         category: "SALAD"
     }, {
@@ -612,9 +612,9 @@ export const food_list = [
         name_uk: "Фатуш",
         image: Fatush,
         gram: 200,
-        price: 189,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 217,
+        description: "",
+        description_uk: "",
 
         category: "SALAD"
     }, {
@@ -623,9 +623,9 @@ export const food_list = [
         name_uk: "Цезар з креветками",
         image: Caesar_with_shrimp,
         gram: 200,
-        price: 340,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 391,
+        description: "",
+        description_uk: "",
 
         category: "SALAD"
     }, {
@@ -634,9 +634,9 @@ export const food_list = [
         name_uk: "Цезар з сьомгою",
         image: Caesar_with_salmon,
         gram: 200,
-        price: 340,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 391,
+        description: "",
+        description_uk: "",
 
         category: "SALAD"
     }, {
@@ -645,9 +645,9 @@ export const food_list = [
         name_uk: "Цезар з куркою",
         image: Caesar_Chicken_Salad,
         gram: 200,
-        price: 210,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 241,
+        description: "",
+        description_uk: "",
 
         category: "SALAD"
     }, {
@@ -656,9 +656,9 @@ export const food_list = [
         name_uk: "Грецький",
         image: Greek_Salad,
         gram: 200,
-        price: 176,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 202,
+        description: "",
+        description_uk: "",
 
         category: "SALAD"
     }, {
@@ -667,9 +667,9 @@ export const food_list = [
         name_uk: "Теплий салат з телятиною та авокадо",
         image: Warm_salad_with_veal_and_avocado,
         gram: 200,
-        price: 340,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 391,
+        description: "",
+        description_uk: "",
 
         category: "SALAD"
     }, {
@@ -678,9 +678,9 @@ export const food_list = [
         name_uk: "Салат з морепродуктами",
         image: Seafood_Salad,
         gram: 200,
-        price: 379,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 435,
+        description: "",
+        description_uk: "",
 
         category: "SALAD"
     }, {
@@ -689,9 +689,9 @@ export const food_list = [
         name_uk: "Мутабаль",
         image: Mutabal,
         gram: 150 / 80,
-        price: 199,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 228,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -700,9 +700,9 @@ export const food_list = [
         name_uk: "Хумус класичний",
         image: Classic_Hummus,
         gram: 150 / 80,
-        price: 152,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 174,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -711,9 +711,9 @@ export const food_list = [
         name_uk: "Хумус Госерий",
         image: Hot_Hummus,
         gram: 150 / 80,
-        price: 162,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 186,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -722,9 +722,9 @@ export const food_list = [
         name_uk: "Хумус з авокадо",
         image: Avocado_Hummus,
         gram: 150 / 80,
-        price: 180,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 207,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -733,9 +733,9 @@ export const food_list = [
         name_uk: "Хумус з Базиліком",
         image: Basil_Hummus,
         gram: 150 / 80,
-        price: 185,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 212,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -744,9 +744,9 @@ export const food_list = [
         name_uk: "Хумус Бейруті",
         image: Hummus_Beiruti,
         gram: 150 / 80,
-        price: 165,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 189,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -755,9 +755,9 @@ export const food_list = [
         name_uk: "Оливки",
         image: Olives,
         gram: 100,
-        price: 130,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 149,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -766,9 +766,9 @@ export const food_list = [
         name_uk: "Ялонжий",
         image: Yalonji,
         gram: 150,
-        price: 210,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 225,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -777,9 +777,9 @@ export const food_list = [
         name_uk: "Асорті свіжих овочів",
         image: Fresh_Vegetable_Platter,
         gram: 300,
-        price: 239,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 274,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -788,9 +788,9 @@ export const food_list = [
         name_uk: "Асорті східних сирів",
         image: Middle_Eastern_Cheese_Platter,
         gram: 300,
-        price: 373,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 428,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -799,9 +799,9 @@ export const food_list = [
         name_uk: "М'ясне асорті",
         image: Meat_Platter,
         gram: 225,
-        price: 346,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 397,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -810,9 +810,9 @@ export const food_list = [
         name_uk: "Бастурма",
         image: Basturma,
         gram: 100,
-        price: 193,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 221,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -821,9 +821,9 @@ export const food_list = [
         name_uk: "Тартар з телятини",
         image: Veal_Tartar,
         gram: 180,
-        price: 315,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 362,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -832,9 +832,9 @@ export const food_list = [
         name_uk: "Тартар з лосося",
         image: Salmon_Tartar,
         gram: 180,
-        price: 315,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 362,
+        description: "",
+        description_uk: "",
 
         category: "APPETIZERS"
     }, {
@@ -843,9 +843,9 @@ export const food_list = [
         name_uk: "Долма",
         image: Dolma,
         gram: 300 / 50,
-        price: 265,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 304,
+        description: "",
+        description_uk: "",
 
         category: "MAIN COURSE"
     }, {
@@ -854,9 +854,9 @@ export const food_list = [
         name_uk: "Капсі з куркою",
         image: Capsies_with_chicken,
         gram: 400,
-        price: 244,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 280,
+        description: "",
+        description_uk: "",
 
         category: "MAIN COURSE"
     }, {
@@ -865,9 +865,9 @@ export const food_list = [
         name_uk: "Фахіта",
         image: Fajita,
         gram: 400,
-        price: 248,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 285,
+        description: "",
+        description_uk: "",
 
         category: "MAIN COURSE"
     }, {
@@ -876,9 +876,9 @@ export const food_list = [
         name_uk: "Телятина 'Філадельфія'",
         image: Philadelphia_Veal,
         gram: 400,
-        price: 380,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 437,
+        description: "",
+        description_uk: "",
 
         category: "MAIN COURSE"
     }, {
@@ -887,9 +887,9 @@ export const food_list = [
         name_uk: "Болоньезе",
         image: Bolognese,
         gram: 350,
-        price: 292,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 335,
+        description: "",
+        description_uk: "",
 
         category: "MAIN COURSE"
     }, {
@@ -898,9 +898,9 @@ export const food_list = [
         name_uk: "Карбонара курка",
         image: Carbonara_chicken,
         gram: 350,
-        price: 265,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 304,
+        description: "",
+        description_uk: "",
 
         category: "MAIN COURSE"
     }, {
@@ -909,9 +909,9 @@ export const food_list = [
         name_uk: "Карбонара телятина",
         image: Veal_Carbonara,
         gram: 350,
-        price: 345,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 396,
+        description: "",
+        description_uk: "",
 
         category: "MAIN COURSE"
     }, {
@@ -920,9 +920,9 @@ export const food_list = [
         name_uk: "Паста з лососем",
         image: Salmon_Pasta,
         gram: 350,
-        price: 345,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 396,
+        description: "",
+        description_uk: "",
 
         category: "MAIN COURSE"
     }, {
@@ -931,9 +931,9 @@ export const food_list = [
         name_uk: "Пельмені",
         image: Dumplings,
         gram: 300,
-        price: 210,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 241,
+        description: "",
+        description_uk: "",
 
         category: "MAIN COURSE"
     }, {
@@ -942,9 +942,9 @@ export const food_list = [
         name_uk: "Шашлик з Баранини",
         image: Lamb_shashlik,
         gram: 200 / 100 / 75,
-        price: 299,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 343,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -953,9 +953,9 @@ export const food_list = [
         name_uk: "Шашлик з Телятини",
         image: Veal_Shashlik,
         gram: 200 / 100 / 75,
-        price: 395,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 454,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -964,9 +964,9 @@ export const food_list = [
         name_uk: "Шашлик з курки",
         image: Chicken_Shashlik,
         gram: 200 / 100 / 75,
-        price: 279,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 320,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -975,9 +975,9 @@ export const food_list = [
         name_uk: "Каре БараниНИ (вагова страва)",
         image: Lamb_rack,
         gram: 100 / 100 / 50,
-        price: 673,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 779,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -986,9 +986,9 @@ export const food_list = [
         name_uk: "Мікс Шашликів 1кг",
         image: Mixed_Meat_Shashlik_Platter_1000,
         gram: 1000 / 500,
-        price: 1599,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 1838,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -997,9 +997,9 @@ export const food_list = [
         name_uk: "Мікс Шашликів 0.5кг",
         image: Mixed_Meat_Shashlik_Platter_1000,
         gram: 500 / 250,
-        price: 829,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 953,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1008,9 +1008,9 @@ export const food_list = [
         name_uk: "Кебаб з баранини",
         image: Lamb_kebab,
         gram: 200 / 100 / 75,
-        price: 256,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 294,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1019,9 +1019,9 @@ export const food_list = [
         name_uk: "Кебаб телятини",
         image: Lamb_kebab,
         gram: 200 / 100 / 75,
-        price: 256,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 294,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1030,9 +1030,9 @@ export const food_list = [
         name_uk: "Кебаб курки",
         image: Chicken_Kebab,
         gram: 200 / 100 / 75,
-        price: 251,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 288,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1041,9 +1041,9 @@ export const food_list = [
         name_uk: "Кебаб гриль мікс 1кг",
         image: Grilled_Kebab_Mix_1000,
         gram: 1000 / 550,
-        price: 1299,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 1493,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1052,9 +1052,9 @@ export const food_list = [
         name_uk: "Кебаб гриль мікс 0.5кг",
         image: Grilled_Kebab_Mix_1000,
         gram: 500 / 250,
-        price: 679,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 780,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1063,9 +1063,9 @@ export const food_list = [
         name_uk: "Крильця курячі",
         image: Chicken_Wings,
         gram: 200,
-        price: 189,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 217,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1074,9 +1074,9 @@ export const food_list = [
         name_uk: "Овочі гриль 0.3кг",
         image: Grilled_Vegetables_300,
         gram: 300,
-        price: 243,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 279,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1085,9 +1085,9 @@ export const food_list = [
         name_uk: "Овочі гриль 0.150кг",
         image: Grilled_Vegetables_300,
         gram: 150,
-        price: 123,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 141,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     },
@@ -1097,9 +1097,9 @@ export const food_list = [
         name_uk: "Картопля на мангалі",
         image: Grilled_Potatos,
         gram: 300,
-        price: 122,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 140,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1108,9 +1108,9 @@ export const food_list = [
         name_uk: "Стейк Рібай з гарніром",
         image: RibEye_steak,
         gram: 300 / 100,
-        price: 952,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 1094,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1119,9 +1119,9 @@ export const food_list = [
         name_uk: "Стейк Тібон з американської яловичини з гарніром",
         image: Tbone_steak,
         gram: 300 / 100,
-        price: 952,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 1094,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1130,9 +1130,9 @@ export const food_list = [
         name_uk: "Стейк курячий",
         image: Chicken_steak,
         gram: 300 / 100,
-        price: 189,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 217,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1141,9 +1141,9 @@ export const food_list = [
         name_uk: "Набір каре Баранини",
         image: Lamb_rack_set,
         gram: 650 / 200,
-        price: 1324,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 1522,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1152,9 +1152,9 @@ export const food_list = [
         name_uk: "Соте з морепродуктами",
         image: Seafood_Saute,
         gram: 600,
-        price: 630,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 724,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1163,9 +1163,9 @@ export const food_list = [
         name_uk: "Стейк лосося з гарніром 'вагова страва'",
         image: Salmon_steak_with_side_dish,
         gram: 300 / 100 / 50,
-        price: 217,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 249,
+        description: "",
+        description_uk: "u",
 
         category: "GRILL"
     }, {
@@ -1174,9 +1174,9 @@ export const food_list = [
         name_uk: "Дорадо з гарніром 'вагова страва'",
         image: Dorado_with_a_side_dish,
         gram: 300 / 100 / 50,
-        price: 133,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 152,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1185,9 +1185,9 @@ export const food_list = [
         name_uk: "Скумбрія 'вагова страва'",
         image: Mackerel,
         gram: 300 / 100 / 50,
-        price: 113,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 129,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1196,9 +1196,9 @@ export const food_list = [
         name_uk: "Форель з гарніром 'вагова страва'",
         image: Trout_with_a_side_dish,
         gram: 300 / 100 / 50,
-        price: 127,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 146,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1207,9 +1207,9 @@ export const food_list = [
         name_uk: "Креветки королівські",
         image: Royal_Shrimp,
         gram: 350 / 100 / 50,
-        price: 899,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 1033,
+        description: "",
+        description_uk: "",
 
         category: "GRILL"
     }, {
@@ -1218,9 +1218,9 @@ export const food_list = [
         name_uk: "Хумус з телятиною та горіхами",
         image: Hummus_with_veal,
         gram: 200 / 80,
-        price: 292,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 335,
+        description: "",
+        description_uk: "",
 
         category: "HOT APPETIZERS"
     }, {
@@ -1229,9 +1229,9 @@ export const food_list = [
         name_uk: "Хумус з бараниною",
         image: Hummus_with_veal,
         gram: 200 / 80,
-        price: 274,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 315,
+        description: "",
+        description_uk: "",
 
         category: "HOT APPETIZERS"
     }, {
@@ -1240,9 +1240,9 @@ export const food_list = [
         name_uk: "Фалафель",
         image: Falafel,
         gram: 200 / 80,
-        price: 164,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 188,
+        description: "",
+        description_uk: "",
 
         category: "HOT APPETIZERS"
     }, {
@@ -1251,9 +1251,9 @@ export const food_list = [
         name_uk: "Кеббе смажене",
         image: Fried_Kebbe,
         gram: 350 / 30,
-        price: 188,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 216,
+        description: "",
+        description_uk: "",
 
         category: "HOT APPETIZERS"
     }, {
@@ -1262,9 +1262,9 @@ export const food_list = [
         name_uk: "Печінка куряча з цибулею",
         image: Chicken_liver_with_onions,
         gram: 300,
-        price: 199,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 228,
+        description: "",
+        description_uk: "",
 
         category: "HOT APPETIZERS"
     }, {
@@ -1273,9 +1273,9 @@ export const food_list = [
         name_uk: "Печінка куряча з соусом 'Наршараб'",
         image: Chicken_liver_with_onions,
         gram: 300,
-        price: 209,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 240,
+        description: "",
+        description_uk: "",
 
         category: "HOT APPETIZERS"
     }, {
@@ -1284,9 +1284,9 @@ export const food_list = [
         name_uk: "Піде з куркою, грибами та сиром",
         image: Pidet_with_chicken,
         gram: 400,
-        price: 310,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 536,
+        description: "",
+        description_uk: "",
 
         category: "BAKING"
     }, {
@@ -1295,9 +1295,9 @@ export const food_list = [
         name_uk: "Піде з м'ясом та сиром",
         image: Pidet_with_meat_and_cheese,
         gram: 400,
-        price: 320,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 368,
+        description: "",
+        description_uk: "",
 
         category: "BAKING"
     }, {
@@ -1306,9 +1306,9 @@ export const food_list = [
         name_uk: "Хачапурі по-аджарськи",
         image: Adjarian_Khachapuri,
         gram: 400,
-        price: 320,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 368,
+        description: "",
+        description_uk: "",
 
         category: "BAKING"
     }, {
@@ -1317,9 +1317,9 @@ export const food_list = [
         name_uk: "Манакіш з сиром",
         image: Cheese_Manakish,
         gram: 220,
-        price: 267,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 307,
+        description: "",
+        description_uk: "",
 
         category: "BAKING"
     }, {
@@ -1328,9 +1328,9 @@ export const food_list = [
         name_uk: "Манакіш Заатар",
         image: Manakish_Zaatar,
         gram: 220,
-        price: 267,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 307,
+        description: "",
+        description_uk: "",
 
         category: "BAKING"
     }, {
@@ -1339,9 +1339,9 @@ export const food_list = [
         name_uk: "Лахме баоджин",
         image: Lahm_bi_Ajeen,
         gram: 300,
-        price: 310,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 356,
+        description: "",
+        description_uk: "",
 
         category: "BAKING"
     }, {
@@ -1350,9 +1350,9 @@ export const food_list = [
         name_uk: "4 сира",
         image: Pizza_4cheeses,
         gram: 500,
-        price: 410,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 471,
+        description: "",
+        description_uk: "",
 
         category: "PIZZA"
     }, {
@@ -1361,9 +1361,9 @@ export const food_list = [
         name_uk: "4 М'яса",
         image: Pizza_4Meats,
         gram: 500,
-        price: 410,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 471,
+        description: "",
+        description_uk: "",
 
         category: "PIZZA"
     }, {
@@ -1372,9 +1372,9 @@ export const food_list = [
         name_uk: "Салямі",
         image: Salami,
         gram: 500,
-        price: 390,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 440,
+        description: "",
+        description_uk: "",
 
         category: "PIZZA"
     }, {
@@ -1383,9 +1383,9 @@ export const food_list = [
         name_uk: "Маргарита",
         image: Margarita,
         gram: 500,
-        price: 380,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 437,
+        description: "",
+        description_uk: "",
 
         category: "PIZZA"
     }, {
@@ -1394,9 +1394,9 @@ export const food_list = [
         name_uk: "Фалафель",
         image: Falafel2,
         gram: 300 / 100,
-        price: 200,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 230,
+        description: "",
+        description_uk: "",
 
         category: "SANDWICHES"
     }, {
@@ -1405,9 +1405,9 @@ export const food_list = [
         name_uk: "Кебаб",
         image: Kebab,
         gram: 300 / 100,
-        price: 200,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 230,
+        description: "",
+        description_uk: "",
 
         category: "SANDWICHES"
     }, {
@@ -1416,9 +1416,9 @@ export const food_list = [
         name_uk: "Шиш-таук",
         image: Shish_Tauk,
         gram: 300 / 100,
-        price: 200,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 230,
+        description: "",
+        description_uk: "",
 
         category: "SANDWICHES"
     }, {
@@ -1427,9 +1427,9 @@ export const food_list = [
         name_uk: "Шаурма",
         image: Shawarma,
         gram: 300 / 100,
-        price: 200,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 230,
+        description: "",
+        description_uk: "",
 
         category: "SANDWICHES"
     }, {
@@ -1438,9 +1438,9 @@ export const food_list = [
         name_uk: "Басматі",
         image: BasmatiRise,
         gram: 200,
-        price: 93,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 106,
+        description: "",
+        description_uk: "",
 
         category: "SIDES"
     }, {
@@ -1449,9 +1449,9 @@ export const food_list = [
         name_uk: "Картопля відварна",
         image: Boiled_Potatoes,
         gram: 200,
-        price: 80,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 92,
+        description: "",
+        description_uk: "",
 
         category: "SIDES"
     }, {
@@ -1460,9 +1460,9 @@ export const food_list = [
         name_uk: "Картопля по-селянськи",
         image: Roasted_Potato,
         gram: 200 / 50,
-        price: 93,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 106,
+        description: "",
+        description_uk: "",
 
         category: "SIDES"
     }, {
@@ -1471,9 +1471,9 @@ export const food_list = [
         name_uk: "Картопля фрі",
         image: French_Fries,
         gram: 200 / 50,
-        price: 107,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 123,
+        description: "",
+        description_uk: "",
 
         category: "SIDES"
     }, {
@@ -1482,9 +1482,9 @@ export const food_list = [
         name_uk: "Рис по-східному",
         image: Middle_Eastern_Style_Rice,
         gram: 200,
-        price: 102,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 117,
+        description: "",
+        description_uk: "",
 
         category: "SIDES"
     },
@@ -1495,9 +1495,9 @@ export const food_list = [
         name_uk: "Шашличний СОУС",
         image: Shashlik_Sauces,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1506,9 +1506,9 @@ export const food_list = [
         name_uk: "Східний СОУС",
         image: Middle_Eastern_Sauce,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1517,9 +1517,9 @@ export const food_list = [
         name_uk: "Таратор",
         image: Tarator_Sauce,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1528,9 +1528,9 @@ export const food_list = [
         name_uk: "Песто",
         image: Pesto_Sauce,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1539,9 +1539,9 @@ export const food_list = [
         name_uk: "Рибний",
         image: Fish_Sauce,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1550,9 +1550,9 @@ export const food_list = [
         name_uk: "Часниковий",
         image: Garlic_Sauce,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1561,9 +1561,9 @@ export const food_list = [
         name_uk: "Наршараб",
         image: Narsharab_Sauce,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1572,9 +1572,9 @@ export const food_list = [
         name_uk: "Барбекю",
         image: BBQ_Sauces,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1583,9 +1583,9 @@ export const food_list = [
         name_uk: "Кетчуп",
         image: Ketchup_Sauce,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1594,9 +1594,9 @@ export const food_list = [
         name_uk: "Сметана",
         image: Sour_Cream,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1605,9 +1605,9 @@ export const food_list = [
         name_uk: "Гірчиця",
         image: Mustard_Sauce,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1616,9 +1616,9 @@ export const food_list = [
         name_uk: "Лябан",
         image: Lyaban_Sauce,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1627,9 +1627,9 @@ export const food_list = [
         name_uk: "Майонез",
         image: Mayonnaise_Sauce,
         gram: 40,
-        price: 59,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 67,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     }, {
@@ -1638,22 +1638,45 @@ export const food_list = [
         name_uk: "Табаско",
         image: Tabasco_Sauce,
         gram: 30,
-        price: 83,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 95,
+        description: "",
+        description_uk: "",
 
         category: "SAUCES"
     },
     //ДЕСЕРТИ DESSERTS
     {
+        _id: "289",
+        name: "Фондан шоколадний",
+        name_uk: "Фондан шоколадний",
+        image: "",
+        gram: 200,
+        price: 264,
+        description: "",
+        description_uk: "",
+
+        category: "DESSERTS"
+    },
+    {
         _id: "102",
         name: "Tiramisu",
         name_uk: "Тірамісу",
         image: Tiramisu,
-        gram: 130,
-        price: 124,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        gram: 200,
+        price: 184,
+        description: "",
+        description_uk: "",
+
+        category: "DESSERTS"
+    },{
+        _id: "288",
+        name: "Тірамісу зполуницею",
+        name_uk: "Тірамісу зполуницею",
+        image: "",
+        gram: 200,
+        price: 234,
+        description: "",
+        description_uk: "",
 
         category: "DESSERTS"
     }, {
@@ -1662,20 +1685,20 @@ export const food_list = [
         name_uk: "Пахлава",
         image: Baklava,
         gram: 100,
-        price: 124,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 168,
+        description: "",
+        description_uk: "",
 
         category: "DESSERTS"
     }, {
         _id: "104",
-        name: "Halva mit Mozzarella-Käse",
-        name_uk: "Халва з сиром Моцарелла",
-        image: Halva_mit_Mozzarella_Käse,
+        name: "Опера",
+        name_uk: "Опера",
+        image: "",
         gram: 200,
-        price: 165,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 186,
+        description: "",
+        description_uk: "",
 
         category: "DESSERTS"
     }, {
@@ -1684,42 +1707,42 @@ export const food_list = [
         name_uk: "Фруктовий салат",
         image: Fruit_salad,
         gram: 300,
-        price: 133,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 153,
+        description: "",
+        description_uk: "",
 
         category: "DESSERTS"
     }, {
         _id: "106",
-        name: "Knafeh with mozzarella cheese",
-        name_uk: "Кнафе з сиром",
-        image: Knafeh_with_mozzarella_cheese,
-        gram: 290,
-        price: 171,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        name: "Форенуар фруктовий ",
+        name_uk: "Форенуар фруктовий ",
+        image: "",
+        gram: 200,
+        price: 226,
+        description: "",
+        description_uk: "",
 
         category: "DESSERTS"
     }, {
         _id: "107",
-        name: "Muhallabia",
-        name_uk: "Десерт Мугалябія",
-        image: Muhallabia,
-        gram: 300,
-        price: 133,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        name: "Біш де нувел",
+        name_uk: "Біш де нувел",
+        image: "",
+        gram: 200,
+        price: 213,
+        description: "",
+        description_uk: "",
 
         category: "DESSERTS"
     }, {
         _id: "108",
-        name: "Middle eastern cheesecakes",
+        name: "cheesecakes",
         name_uk: "Чізкейк",
         image: Middle_eastern_cheesecakes,
-        gram: 190,
-        price: 138,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        gram: 200,
+        price: 193,
+        description: "",
+        description_uk: "",
 
         category: "DESSERTS"
     }, {
@@ -1728,9 +1751,9 @@ export const food_list = [
         name_uk: "Морозиво в асортименті",
         image: Ice_cream,
         gram: 150,
-        price: 106,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 121,
+        description: "",
+        description_uk: "",
 
         category: "DESSERTS"
     }, {
@@ -1739,9 +1762,9 @@ export const food_list = [
         name_uk: "Фруктова нарізка",
         image: Fruchtscheiben_1000,
         gram: 1000,
-        price: 634,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 729,
+        description: "",
+        description_uk: "",
 
         category: "DESSERTS"
     }, {
@@ -1750,9 +1773,9 @@ export const food_list = [
         name_uk: "Фруктова нарізка",
         image: Fruchtscheiben_500,
         gram: 500,
-        price: 317,
-        description: "Food provides essential nutrients for overall health and well-being",
-        description_uk: "uk Food provides essential nutrients for overall health and well-being",
+        price: 365,
+        description: "",
+        description_uk: "",
 
         category: "DESSERTS"
     },
@@ -1763,7 +1786,7 @@ export const food_list = [
         name_uk: "Dourthe No1 Bordeaux Rouge",
         image: wine_cat,
         gram: 0.75+"L",
-        price: 1428,
+        price: 1642,
         description: "RED/FRANCE",
         description_uk: "ЧЕРВОНЕ/ФРАНЦІЯ",
 
@@ -1774,7 +1797,7 @@ export const food_list = [
         name_uk: "Domini Veneti -Valpolicella Classico-",
         image: wine_cat,
         gram: 0.75+"L",
-        price: 1891,
+        price: 2174,
         description: "RED/ITALY",
         description_uk: "ЧЕРВОНЕ/ІТАЛІЯ",
 
@@ -1785,9 +1808,9 @@ export const food_list = [
         name_uk: "Casillero del Diablo Merlot-розлив",
         image: wine_cat,
         gram: 0.150+"L",
-        price: 175,
-        description: "RED/CHILE  - 0.75L/879 UAH ",
-        description_uk: "ЧЕРВОНЕ/ЧИЛІ  - 0.75L/879 ГРН",
+        price: 201,
+        description: "RED/CHILE  - 0.75L/1005 UAH ",
+        description_uk: "ЧЕРВОНЕ/ЧИЛІ  - 0.75L/1005 ГРН",
 
         category: "WINE"
     },{
@@ -1796,9 +1819,9 @@ export const food_list = [
         name_uk: "del Diablo Cabernet Sauvignon -розлив",
         image: wine_cat,
         gram: 0.150+"L",
-        price: 203,
-        description: "RED/CHILE  - 0.75L/1017 UAH ",
-        description_uk: "ЧЕРВОНЕ/ЧИЛІ  - 0.75L/1017 ГРН",
+        price: 233,
+        description: "RED/CHILE  - 0.75L/1165 UAH ",
+        description_uk: "ЧЕРВОНЕ/ЧИЛІ  - 0.75L/1165 ГРН",
 
         category: "WINE"
     },{
@@ -1807,7 +1830,7 @@ export const food_list = [
         name_uk: "Settesori Pinot Grigio -розлив",
         image: wine_cat,
         gram: 0.150+"L",
-        price: 215,
+        price: 247,
         description: "WHITE ",
         description_uk: "БІЛЕ ",
 
@@ -1818,7 +1841,7 @@ export const food_list = [
         name_uk: "Latinium Riesling -розлив",
         image: wine_cat,
         gram: 0.150+"L",
-        price: 165,
+        price: 189,
         description: "WHITE ",
         description_uk: "БІЛЕ ",
 
@@ -1829,7 +1852,7 @@ export const food_list = [
         name_uk: "Latinium Gewurztraminer -розлив",
         image: wine_cat,
         gram: 0.150+"L",
-        price: 165,
+        price: 189,
         description: "WHITE ",
         description_uk: "БІЛЕ ",
 
@@ -1840,9 +1863,9 @@ export const food_list = [
         name_uk: "Casillerodel Diablo Merlot -розлив",
         image: wine_cat,
         gram: 0.150+"L",
-        price: 221,
-        description: "RED - 0.75L/1105 UAH  ",
-        description_uk: "ЧЕРВОНЕ  - 0.75L/1105 ГРН",
+        price: 254,
+        description: "RED - 0.75L/1270 UAH  ",
+        description_uk: "ЧЕРВОНЕ  - 0.75L/1270 ГРН",
 
         category: "WINE"
     },{
@@ -1851,9 +1874,9 @@ export const food_list = [
         name_uk: "Casillero del Diablo Carmener -розлив",
         image: wine_cat,
         gram: 0.150+"L",
-        price: 221,
-        description: "RED - 0.75L/1105 UAH ",
-        description_uk: "ЧЕРВОНЕ - 0.75L/1105 грн ",
+        price: 254,
+        description: "RED - 0.75L/1270 UAH ",
+        description_uk: "ЧЕРВОНЕ - 0.75L/1270 грн ",
 
         category: "WINE"
     },
@@ -1865,7 +1888,7 @@ export const food_list = [
         name_uk: "Moët Chandon Impérial",
         image: CHANPAGNE_cat,
         gram: 0.750+"L",
-        price: 5740,
+        price: 6601,
         description: "",
         description_uk: "",
 
@@ -1876,7 +1899,7 @@ export const food_list = [
         name_uk: "Moët Chandon Rosé Impérial",
         image: CHANPAGNE_cat,
         gram: 0.750+"L",
-        price: 6300,
+        price: 7245,
         description: "",
         description_uk: "",
 
@@ -1887,7 +1910,7 @@ export const food_list = [
         name_uk: "Cava Arte Latino Brut",
         image: CHANPAGNE_cat,
         gram: 0.750+"L",
-        price: 1060,
+        price: 1219,
         description: "",
         description_uk: "",
 
@@ -1898,7 +1921,7 @@ export const food_list = [
         name_uk: "Terra Serena Prosecco Spumante",
         image: CHANPAGNE_cat,
         gram: 0.150+"L",
-        price: 280,
+        price: 322,
         description: "0.75L/1105 UAH",
         description_uk: "0.75L/1105 ГРН",
 
@@ -1909,7 +1932,7 @@ export const food_list = [
         name_uk: "Crystal",
         image: CHANPAGNE_cat,
         gram: 0.750+"L",
-        price: 39020,
+        price: 44873,
         description: "",
         description_uk: "",
 
@@ -1920,9 +1943,9 @@ export const food_list = [
         name_uk: "Sensi Prosecco",
         image: CHANPAGNE_cat,
         gram: 0.150+"L",
-        price: 203,
-        description: "0.75L/1017 UAH",
-        description_uk: "0.75L/1017 ГРН",
+        price: 233,
+        description: "0.75L/1165 UAH",
+        description_uk: "0.75L/1165 ГРН",
 
         category: "CHANPAGNE & SPARKLING WINES"
     },{
@@ -1931,9 +1954,9 @@ export const food_list = [
         name_uk: "Val D'Oca Prosecco Superiore Valdobbiadene DOC 6",
         image: CHANPAGNE_cat,
         gram: 0.150+"L",
-        price: 198,
-        description: "0.75L/989 UAH",
-        description_uk: "0.75L/989 ГРН",
+        price: 227,
+        description: "0.75L/1135 UAH",
+        description_uk: "0.75L/1135 ГРН",
 
         category: "CHANPAGNE & SPARKLING WINES"
     },{
@@ -1942,7 +1965,7 @@ export const food_list = [
         name_uk: "Xenta Absenta",
         image: APERETIF_BITTER_TINCTURE_cat,
         gram: 0.05+"L",
-        price: 151,
+        price: 173,
         description: "",
         description_uk: "",
 
@@ -1953,7 +1976,7 @@ export const food_list = [
         name_uk: "Campari",
         image: APERETIF_BITTER_TINCTURE_cat,
         gram: 0.05+"L",
-        price: 141,
+        price: 162,
         description: "",
         description_uk: "",
 
@@ -1964,7 +1987,7 @@ export const food_list = [
         name_uk: "Супаг артишоковий",
         image: APERETIF_BITTER_TINCTURE_cat,
         gram: 0.05+"L",
-        price: 139,
+        price: 159,
         description: "",
         description_uk: "",
 
@@ -1977,7 +2000,7 @@ export const food_list = [
         name_uk: "ciroc",
         image: VODKA_cat,
         gram: 0.05+"L",
-        price: 220,
+        price: 253,
         description: "",
         description_uk: "",
 
@@ -1988,7 +2011,7 @@ export const food_list = [
         name_uk: "Belvedere",
         image: VODKA_cat,
         gram: 0.05+"L",
-        price: 147,
+        price: 169,
         description: "",
         description_uk: "",
 
@@ -1999,7 +2022,7 @@ export const food_list = [
         name_uk: "Nemiroff De Luxe",
         image: VODKA_cat,
         gram: 0.05+"L",
-        price: 95,
+        price: 110,
         description: "",
         description_uk: "",
 
@@ -2010,7 +2033,7 @@ export const food_list = [
         name_uk: "Nemiroff Lex",
         image: VODKA_cat,
         gram: 0.05+"L",
-        price: 135,
+        price: 155,
         description: "",
         description_uk: "",
 
@@ -2021,7 +2044,7 @@ export const food_list = [
         name_uk: "Фінляндія в асортименті",
         image: VODKA_cat,
         gram: 0.05+"L",
-        price: 135,
+        price: 155,
         description: "",
         description_uk: "",
 
@@ -2032,7 +2055,7 @@ export const food_list = [
         name_uk: "Grey goose",
         image: VODKA_cat,
         gram: 0.05+"L",
-        price: 168,
+        price: 193,
         description: "",
         description_uk: "",
 
@@ -2043,7 +2066,7 @@ export const food_list = [
         name_uk: "becherovka",
         image: TINCTURES_cat,
         gram: 0.05+"L",
-        price: 115,
+        price: 132,
         description: "",
         description_uk: "",
 
@@ -2056,7 +2079,7 @@ export const food_list = [
         name_uk: "Captain Morgan White Rum",
         image: RUM_cat,
         gram: 0.05+"L",
-        price: 143,
+        price: 164,
         description: "",
         description_uk: "",
 
@@ -2067,7 +2090,7 @@ export const food_list = [
         name_uk: "Captain Morgan Original Spiced Gold",
         image: RUM_cat,
         gram: 0.05+"L",
-        price: 143,
+        price: 164,
         description: "",
         description_uk: "",
 
@@ -2078,7 +2101,7 @@ export const food_list = [
         name_uk: "Captain Morgan Dark Rum",
         image: RUM_cat,
         gram: 0.05+"L",
-        price: 143,
+        price: 164,
         description: "",
         description_uk: "",
 
@@ -2089,7 +2112,7 @@ export const food_list = [
         name_uk: "Captain Morgan Black Spiced",
         image: RUM_cat,
         gram: 0.05+"L",
-        price: 151,
+        price: 173,
         description: "",
         description_uk: "",
 
@@ -2100,7 +2123,7 @@ export const food_list = [
         name_uk: "Zacapa 23",
         image: RUM_cat,
         gram: 0.05+"L",
-        price: 368,
+        price: 423,
         description: "",
         description_uk: "",
 
@@ -2113,7 +2136,7 @@ export const food_list = [
         name_uk: "vida",
         image: MEZCAL_cat,
         gram: 0.05+"L",
-        price: 264,
+        price: 303,
         description: "",
         description_uk: "",
 
@@ -2126,7 +2149,7 @@ export const food_list = [
         name_uk: "True Tequila Silver",
         image: TEQUILA_cat,
         gram: 0.05+"L",
-        price: 147,
+        price: 169,
         description: "",
         description_uk: "",
 
@@ -2137,7 +2160,7 @@ export const food_list = [
         name_uk: "True Tequila Gold",
         image: TEQUILA_cat,
         gram: 0.05+"L",
-        price: 163,
+        price: 187,
         description: "",
         description_uk: "",
 
@@ -2148,7 +2171,7 @@ export const food_list = [
         name_uk: "Don Julio Blanco",
         image: TEQUILA_cat,
         gram: 0.05+"L",
-        price: 215,
+        price: 247,
         description: "",
         description_uk: "",
 
@@ -2159,7 +2182,7 @@ export const food_list = [
         name_uk: "jose cuervo traditional agava",
         image: TEQUILA_cat,
         gram: 0.05+"L",
-        price: 193,
+        price: 221,
         description: "",
         description_uk: "",
     
@@ -2172,7 +2195,7 @@ export const food_list = [
         name_uk: "TGordon's Premium Pink",
         image: GIN_cat,
         gram: 0.05+"L",
-        price: 140,
+        price: 161,
         description: "",
         description_uk: "",
     
@@ -2183,7 +2206,7 @@ export const food_list = [
         name_uk: "Tanqueray London Dry",
         image: GIN_cat,
         gram: 0.05+"L",
-        price: 171,
+        price: 196,
         description: "",
         description_uk: "",
     
@@ -2194,7 +2217,7 @@ export const food_list = [
         name_uk: "Tanqueray NoTEN",
         image: GIN_cat,
         gram: 0.05+"L",
-        price: 185,
+        price: 212,
         description: "",
         description_uk: "",
     
@@ -2207,7 +2230,7 @@ export const food_list = [
         name_uk: "Metaxa 7 Star",
         image: BRANDY_CALVADOS_GRAPPA_cat,
         gram: 0.05+"L",
-        price: 133,
+        price: 152,
         description: "",
         description_uk: "",
     
@@ -2218,7 +2241,7 @@ export const food_list = [
         name_uk: "Metaxa 12 Stars",
         image: BRANDY_CALVADOS_GRAPPA_cat,
         gram: 0.05+"L",
-        price: 209,
+        price: 240,
         description: "",
         description_uk: "",
     
@@ -2229,7 +2252,7 @@ export const food_list = [
         name_uk: "Calvados Paul Devoille VSOP",
         image: BRANDY_CALVADOS_GRAPPA_cat,
         gram: 0.05+"L",
-        price: 139,
+        price: 159,
         description: "",
         description_uk: "",
     
@@ -2242,7 +2265,7 @@ export const food_list = [
         name_uk: "Rémy Martin VS Superieur",
         image: СOGNAC_cat,
         gram: 0.05+"L",
-        price: 279,
+        price: 205,
         description: "",
         description_uk: "",
     
@@ -2253,7 +2276,7 @@ export const food_list = [
         name_uk: "Rémy Martin VSOP",
         image: СOGNAC_cat,
         gram: 0.05+"L",
-        price: 488,
+        price: 562,
         description: "",
         description_uk: "",
     
@@ -2264,7 +2287,7 @@ export const food_list = [
         name_uk: "Hennessy Very Special",
         image: СOGNAC_cat,
         gram: 0.05+"L",
-        price: 248,
+        price: 285,
         description: "",
         description_uk: "",
     
@@ -2275,7 +2298,7 @@ export const food_list = [
         name_uk: "Hennessy VSOP Privilège",
         image: СOGNAC_cat,
         gram: 0.05+"L",
-        price: 456,
+        price: 524,
         description: "",
         description_uk: "",
     
@@ -2286,7 +2309,7 @@ export const food_list = [
         name_uk: "арарат 5 звезд",
         image: СOGNAC_cat,
         gram: 0.05+"L",
-        price: 170,
+        price: 195,
         description: "",
         description_uk: "",
     
@@ -2297,7 +2320,7 @@ export const food_list = [
         name_uk: "Johnnie Walker Red Label",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 149,
+        price: 171,
         description: "SCOTCH",
         description_uk: "ШОТЛАНДСЬКИЙ",
     
@@ -2308,7 +2331,7 @@ export const food_list = [
         name_uk: "Johnnie Walker Red Rye Finish",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 151,
+        price: 173,
         description: "SCOTCH",
         description_uk: "ШОТЛАНДСЬКИЙ",
     
@@ -2319,7 +2342,7 @@ export const food_list = [
         name_uk: "Johnnie Walker Black Label 12 YO",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 241,
+        price: 277,
         description: "SCOTCH",
         description_uk: "ШОТЛАНДСЬКИЙ",
     
@@ -2330,7 +2353,7 @@ export const food_list = [
         name_uk: "Johnnie Walker Double Black",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 279,
+        price: 205,
         description: "SCOTCH",
         description_uk: "ШОТЛАНДСЬКИЙ",
     
@@ -2341,7 +2364,7 @@ export const food_list = [
         name_uk: "Johnnie Walker Gold Label Reserve",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 381,
+        price: 438,
         description: "SCOTCH",
         description_uk: "ШОТЛАНДСЬКИЙ",
     
@@ -2352,7 +2375,7 @@ export const food_list = [
         name_uk: "Chivas Regal 18YO",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 584,
+        price: 671,
         description: "SCOTCH",
         description_uk: "ШОТЛАНДСЬКИЙ",
     
@@ -2363,7 +2386,7 @@ export const food_list = [
         name_uk: "Chivas Regal 12YO",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 264,
+        price: 303,
         description: "SCOTCH",
         description_uk: "ШОТЛАНДСЬКИЙ",
     
@@ -2374,7 +2397,7 @@ export const food_list = [
         name_uk: "The Singleton of Dufftown 12 YO",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 311,
+        price: 357,
         description: "SINGLE MALT",
         description_uk: "односолодовий",
     
@@ -2385,7 +2408,7 @@ export const food_list = [
         name_uk: "Glenmorangie The Original, 10 YO",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 368,
+        price: 423,
         description: "SINGLE MALT",
         description_uk: "односолодовий",
     
@@ -2396,7 +2419,7 @@ export const food_list = [
         name_uk: "Glenmorangie Nectar D'OR, 12 YO",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 384,
+        price: 441,
         description: "SINGLE MALT",
         description_uk: "односолодовий",
     
@@ -2407,7 +2430,7 @@ export const food_list = [
         name_uk: "Macallan",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 463,
+        price: 532,
         description: "SINGLE MALT",
         description_uk: "односолодовий",
     
@@ -2418,7 +2441,7 @@ export const food_list = [
         name_uk: "BRUICHLADDICH Scottich Barley The Classic Laddie",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 433,
+        price: 497,
         description: "SINGLE MALT",
         description_uk: "односолодовий",
     
@@ -2429,7 +2452,7 @@ export const food_list = [
         name_uk: "Jameson",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 196,
+        price: 225,
         description: "IRISH",
         description_uk: "ІРЛАНДІЯ",
     
@@ -2440,7 +2463,7 @@ export const food_list = [
         name_uk: "Bulleit Bourbon",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 189,
+        price: 217,
         description: "BOURBON",
         description_uk: "БУРБОН",
     
@@ -2452,7 +2475,7 @@ export const food_list = [
         name_uk: "Bulleit Rye",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 189,
+        price: 217,
         description: "BOURBON",
         description_uk: "БУРБОН",
     
@@ -2463,7 +2486,7 @@ export const food_list = [
         name_uk: "Makers Mark",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 304,
+        price: 349,
         description: "BOURBON",
         description_uk: "БУРБОН",
     
@@ -2474,7 +2497,7 @@ export const food_list = [
         name_uk: "Jack Daniels Single Barrel",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 304,
+        price: 349,
         description: "TENNESSEE",
         description_uk: "TEHECI",
     
@@ -2485,7 +2508,7 @@ export const food_list = [
         name_uk: "Jack Daniels Honey",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 185,
+        price: 212,
         description: "TENNESSEE",
         description_uk: "TEHECI",
     
@@ -2496,7 +2519,7 @@ export const food_list = [
         name_uk: "Jack Daniels Fire",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 193,
+        price: 221,
         description: "TENNESSEE",
         description_uk: "TEHECI",
     
@@ -2507,7 +2530,7 @@ export const food_list = [
         name_uk: "Crown Royal De Luxe",
         image: WHISKEY_cat,
         gram: 0.05+"L",
-        price: 185,
+        price: 212,
         description: "CANADA",
         description_uk: "КАНАДСЬКИЙ",
     
@@ -2520,7 +2543,7 @@ export const food_list = [
         name_uk: "Jägermeister",
         image: ICE_COLD_SHOT_cat,
         gram: 0.5+"L",
-        price: 165,
+        price: 189,
         description: "",
         description_uk: "",
     
@@ -2533,7 +2556,7 @@ export const food_list = [
         name_uk: "Baileys The Original",
         image: LIQUEUR_cat,
         gram: 0.05+"L",
-        price: 165,
+        price: 189,
         description: "",
         description_uk: "",
     
@@ -2544,7 +2567,7 @@ export const food_list = [
         name_uk: "Cointreau",
         image: LIQUEUR_cat,
         gram: 0.05+"L",
-        price: 111,
+        price: 127,
         description: "",
         description_uk: "",
     
@@ -2555,7 +2578,7 @@ export const food_list = [
         name_uk: "Kahlua",
         image: LIQUEUR_cat,
         gram: 0.05+"L",
-        price: 139,
+        price: 159,
         description: "",
         description_uk: "",
     
@@ -2566,7 +2589,7 @@ export const food_list = [
         name_uk: "Malibu",
         image: LIQUEUR_cat,
         gram: 0.05+"L",
-        price: 143,
+        price: 164,
         description: "",
         description_uk: "",
     
@@ -2577,7 +2600,7 @@ export const food_list = [
         name_uk: "Sambuca Antica Classic",
         image: LIQUEUR_cat,
         gram: 0.05+"L",
-        price: 170,
+        price: 195,
         description: "",
         description_uk: "",
     
@@ -2588,7 +2611,7 @@ export const food_list = [
         name_uk: "Volare (в ассортименті)",
         image: LIQUEUR_cat,
         gram: 0.05+"L",
-        price: 109,
+        price: 125,
         description: "",
         description_uk: "",
     
@@ -2599,7 +2622,7 @@ export const food_list = [
         name_uk: "Riga Black Currant",
         image: LIQUEUR_cat,
         gram: 0.05+"L",
-        price: 114,
+        price: 131,
         description: "",
         description_uk: "",
     
@@ -2612,7 +2635,7 @@ export const food_list = [
         name_uk: "Monin",
         image: SYRUP_cat,
         gram: 0.05+"L",
-        price: 87,
+        price: 100,
         description: "",
         description_uk: "",
     
@@ -2625,7 +2648,7 @@ export const food_list = [
         name_uk: "kronenbourg",
         image: BEER_cat,
         gram: "0,33/0,5L",
-        price: "92/142",
+        price: "107/163",
         description: "",
         description_uk: "",
     
@@ -2636,7 +2659,7 @@ export const food_list = [
         name_uk: "blond",
         image: BEER_cat,
         gram: "0,33/0,5L",
-        price: "46/92",
+        price: "70/106",
         description: "",
         description_uk: "",
     
@@ -2647,7 +2670,7 @@ export const food_list = [
         name_uk: "blanche",
         image: BEER_cat,
         gram: "0,33/0,5L",
-        price: "105/163",
+        price: "123/187",
         description: "",
         description_uk: "",
     
@@ -2658,7 +2681,7 @@ export const food_list = [
         name_uk: "Grimbergen Double-Ambree",
         image: BEER_cat,
         gram: "0,33/0,5L",
-        price: "115/171",
+        price: "129/196",
         description: "",
         description_uk: "",
     
@@ -2669,7 +2692,7 @@ export const food_list = [
         name_uk: "Heineken",
         image: BEER_cat,
         gram: "0,33/0,5L",
-        price: "115/135",
+        price: "102/155",
         description: "BEER BOTTLED",
         description_uk: "ПИВО ПЛЯШКОВЕ",
     
@@ -2680,7 +2703,7 @@ export const food_list = [
         name_uk: "Corona Extra",
         image: BEER_cat,
         gram: "0,33L",
-        price: "142",
+        price: "163",
         description: "BEER BOTTLED",
         description_uk: "ПИВО ПЛЯШКОВЕ",
     
@@ -2691,7 +2714,7 @@ export const food_list = [
         name_uk: "Guinness",
         image: BEER_cat,
         gram: "0,5L",
-        price: "148",
+        price: "170",
         description: "BEER BOTTLED",
         description_uk: "ПИВО ПЛЯШКОВЕ",
     
@@ -2702,7 +2725,7 @@ export const food_list = [
         name_uk: "Warsteiner Premium Fresh 6/a",
         image: BEER_cat,
         gram: "0,5L",
-        price: "165",
+        price: "189",
         description: "BEER BOTTLED",
         description_uk: "ПИВО ПЛЯШКОВЕ",
     
@@ -2713,7 +2736,7 @@ export const food_list = [
         name_uk: "a blanche",
         image: BEER_cat,
         gram: "3.5L",
-        price: "899",
+        price: "1033",
         description: "Beer tower",
         description_uk: "Пивна веж",
     
@@ -2724,7 +2747,7 @@ export const food_list = [
         name_uk: "a kronenbourg",
         image: BEER_cat,
         gram: "3.5L",
-        price: "799",
+        price: "918",
         description: "Beer tower",
         description_uk: "Пивна веж",
     
@@ -2737,7 +2760,7 @@ export const food_list = [
         name_uk: "JSchweppes Тонік",
         image: SOFT_DRINKS_cat,
         gram: "0.20L",
-        price: 83,
+        price: 95,
         description: "",
         description_uk: "",
     
@@ -2748,7 +2771,7 @@ export const food_list = [
         name_uk: "pepsi",
         image: SOFT_DRINKS_cat,
         gram: "0.25L",
-        price: 65,
+        price: 74,
         description: "",
         description_uk: "",
     
@@ -2759,7 +2782,7 @@ export const food_list = [
         name_uk: "mirinda",
         image: SOFT_DRINKS_cat,
         gram: "0.25L",
-        price: 65,
+        price: 74,
         description: "",
         description_uk: "",
     
@@ -2770,7 +2793,7 @@ export const food_list = [
         name_uk: "7up",
         image: SOFT_DRINKS_cat,
         gram: "0.25L",
-        price: 65,
+        price: 74,
         description: "",
         description_uk: "",
     
@@ -2781,7 +2804,7 @@ export const food_list = [
         name_uk: "Моршинська газ",
         image: SOFT_DRINKS_cat,
         gram: "0.33L",
-        price: 65,
+        price: 74,
         description: "",
         description_uk: "",
     
@@ -2792,7 +2815,7 @@ export const food_list = [
         name_uk: "Моршинська б/г",
         image: SOFT_DRINKS_cat,
         gram: "0.33L",
-        price: 65,
+        price: 74,
         description: "",
         description_uk: "",
     
@@ -2803,7 +2826,7 @@ export const food_list = [
         name_uk: "Моршинська",
         image: SOFT_DRINKS_cat,
         gram: "0.75L",
-        price: 121,
+        price: 139,
         description: "",
         description_uk: "",
     
@@ -2814,7 +2837,7 @@ export const food_list = [
         name_uk: "Боржомі",
         image: SOFT_DRINKS_cat,
         gram: "0.33L",
-        price: 108,
+        price: 124,
         description: "",
         description_uk: "",
     
@@ -2825,7 +2848,7 @@ export const food_list = [
         name_uk: "Perrier",
         image: SOFT_DRINKS_cat,
         gram: "0.33L",
-        price: 121,
+        price: 139,
         description: "",
         description_uk: "",
     
@@ -2836,7 +2859,7 @@ export const food_list = [
         name_uk: "Evian",
         image: SOFT_DRINKS_cat,
         gram: "0.25L",
-        price: 146,
+        price: 167,
         description: "",
         description_uk: "",
     
@@ -2847,7 +2870,7 @@ export const food_list = [
         name_uk: "Сік в асортименті Rich",
         image: SOFT_DRINKS_cat,
         gram: "0.25L",
-        price: 62,
+        price: 71,
         description: "",
         description_uk: "",
     
@@ -2858,7 +2881,7 @@ export const food_list = [
         name_uk: "Ред Булл",
         image: SOFT_DRINKS_cat,
         gram: "0.25L",
-        price: 135,
+        price: 155,
         description: "",
         description_uk: "",
     
@@ -2871,7 +2894,7 @@ export const food_list = [
         name_uk: "Ананасовий",
         image: Fresh_Juices_cat,
         gram: "0.25L",
-        price: 317,
+        price: 364,
         description: "",
         description_uk: "",
     
@@ -2882,7 +2905,7 @@ export const food_list = [
         name_uk: "Гранатовий",
         image: Fresh_Juices_cat,
         gram: "0.25L",
-        price: 317,
+        price: 467,
         description: "",
         description_uk: "",
     
@@ -2893,7 +2916,7 @@ export const food_list = [
         name_uk: "Апельсиновий",
         image: Fresh_Juices_cat,
         gram: "0.25L",
-        price: 215,
+        price: 247,
         description: "",
         description_uk: "",
     
@@ -2904,7 +2927,7 @@ export const food_list = [
         name_uk: "Грейпфрутовий",
         image: Fresh_Juices_cat,
         gram: "0.25L",
-        price: 235,
+        price: 270,
         description: "",
         description_uk: "",
     
@@ -2915,7 +2938,7 @@ export const food_list = [
         name_uk: "Яблучний",
         image: Fresh_Juices_cat,
         gram: "0.25L",
-        price: 167,
+        price: 192,
         description: "",
         description_uk: "",
     
@@ -2926,7 +2949,7 @@ export const food_list = [
         name_uk: "Лимонний",
         image: Fresh_Juices_cat,
         gram: "0.25L",
-        price: 317,
+        price: 364,
         description: "",
         description_uk: "",
     
@@ -2937,7 +2960,7 @@ export const food_list = [
         name_uk: "Морквяний",
         image: Fresh_Juices_cat,
         gram: "0.25L",
-        price: 121,
+        price: 139,
         description: "",
         description_uk: "",
     
@@ -2948,7 +2971,7 @@ export const food_list = [
         name_uk: "Мікс фреш",
         image: Fresh_Juices_cat,
         gram: "0.25L",
-        price: 285,
+        price: 327,
         description: "",
         description_uk: "",
     
@@ -2961,7 +2984,7 @@ export const food_list = [
         name_uk: "Лимонад барбарис-гранат",
         image: LEMONADE_cat,
         gram: "0.3L",
-        price: 125,
+        price: 143,
         description: "Soda, syrup pomegranate, syrup barberry, emon fresh",
         description_uk: "Содова,сироп гранат, сироп барбарис, лимонний фреш, ягоди годжі",
     
@@ -2972,7 +2995,7 @@ export const food_list = [
         name_uk: "Лимонад тархун-базилік",
         image: LEMONADE_cat,
         gram: "0.3L",
-        price: 125,
+        price: 143,
         description: "Soda,lemon fresh,syrup tarragon, fresh basil goji berries",
         description_uk: "Содова, сироп тархун, свіжий базилік,лимон",
     
@@ -2983,7 +3006,7 @@ export const food_list = [
         name_uk: "Натахтарі груша",
         image: LEMONADE_cat,
         gram: "0.3L",
-        price: 132,
+        price: 151,
         description: "",
         description_uk: "",
     
@@ -2994,7 +3017,7 @@ export const food_list = [
         name_uk: "Лимонад цитрусовий",
         image: LEMONADE_cat,
         gram: "0.3L",
-        price: 132,
+        price: 151,
         description: "apple juice, orange juice, apple syrup, Fresh lemon, soda",
         description_uk: "сік яблучний, апельсиновий, сироп яблуко, Фреш лимон, содова",
     
@@ -3005,7 +3028,7 @@ export const food_list = [
         name_uk: "Лимонад тропічний",
         image: LEMONADE_cat,
         gram: "0.3L",
-        price: 132,
+        price: 151,
         description: "passion fruit syrup, banana syrup, pineapple juice, coconut milk, sugar syrup, fresh lemon",
         description_uk: "сироп маракуя, сироп банан, сік ананас,молоко кокос., сироп цукровий,Фреш лимон",
     
@@ -3018,7 +3041,7 @@ export const food_list = [
         name_uk: "Сонячне світло",
         image: NON_ALCOHOLIC_COCTAILS_cat,
         gram: "0.4L",
-        price: 172,
+        price: 197,
         description: "Orange juice, banana, honey syrup, lemon fresh",
         description_uk: "Апельсиновий сік,банан, медовий сироп, лимонний фреш",
     
@@ -3029,7 +3052,7 @@ export const food_list = [
         name_uk: "Мохіто",
         image: NON_ALCOHOLIC_COCTAILS_cat,
         gram: "0.4L",
-        price: 211,
+        price: 242,
         description: "Soda, lime, mint, syrup lemon, cane syrup",
         description_uk: "Содова,лайм, м'ята, сироп ранчо,лимон,тростинний сироп", 
         category: "NON-ALCOHOLIC COCTAILS"
@@ -3039,7 +3062,7 @@ export const food_list = [
         name_uk: "Мохіто полуничний",
         image: NON_ALCOHOLIC_COCTAILS_cat,
         gram: "0.4L",
-        price: 199,
+        price: 228,
         description: "Soda,strawberry, mint,ime, syrup lemon, cane syrup",
         description_uk: "Содова, лайм,м*ята,полуниця, сироп ранчо, лимон,тростинний сироп", 
         category: "NON-ALCOHOLIC COCTAILS"
@@ -3049,7 +3072,7 @@ export const food_list = [
         name_uk: "Мілк шейк фісташковий",
         image: NON_ALCOHOLIC_COCTAILS_cat,
         gram: "0.4L",
-        price: 147,
+        price: 169,
         description: "Milk,Pistachio ice cream, creame, syrup pistachio",
         description_uk: "Молоко, морозиво Фісташкове, вершки,сироп фісташковий", 
         category: "NON-ALCOHOLIC COCTAILS"
@@ -3059,7 +3082,7 @@ export const food_list = [
         name_uk: "Мілк шейк банановий",
         image: NON_ALCOHOLIC_COCTAILS_cat,
         gram: "0.4L",
-        price: 153,
+        price: 175,
         description: "Milk, banana, ice cream, cream, banana syrup",
         description_uk: "Молоко, банан,морозиво, вершки сироп банановий", 
         category: "NON-ALCOHOLIC COCTAILS"
@@ -3069,7 +3092,7 @@ export const food_list = [
         name_uk: "Мілк шейк полуничний",
         image: NON_ALCOHOLIC_COCTAILS_cat,
         gram: "0.4L",
-        price: 151,
+        price: 173,
         description: "Milk, ice cream, cream, strawberry syrup",
         description_uk: " Молоко, морозиво,вершки сироп полуничний", 
         category: "NON-ALCOHOLIC COCTAILS"
@@ -3079,7 +3102,7 @@ export const food_list = [
         name_uk: "Мілк шейк шоколадний",
         image: NON_ALCOHOLIC_COCTAILS_cat,
         gram: "0.4L",
-        price: 153,
+        price: 175,
         description: "Milk, ice cream, cream, chocolate syrup",
         description_uk: "Молоко, морозиво, вершки сироп шоколадний", 
         category: "NON-ALCOHOLIC COCTAILS"
@@ -3091,7 +3114,7 @@ export const food_list = [
         name_uk: "Олд-Фешен ",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.09L",
-        price: 171,
+        price: 196,
         description: " Bulleit Bourbon, Angostura, orange peel",
         description_uk: "Bulleit Bourbon, Angostura, апельсинова цедра", 
         category: "CLASSIC COCKTAILS"
@@ -3101,7 +3124,7 @@ export const food_list = [
         name_uk: "Негроні ",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.120L",
-        price: 167,
+        price: 192,
         description: "Torino Rosso Montanaro, Tanqueray, Campari, kumquat",
         description_uk: "Torino Rosso Montanaro, Gordons, Campari, кумкват", 
         category: "CLASSIC COCKTAILS"
@@ -3111,7 +3134,7 @@ export const food_list = [
         name_uk: "Біла Леді ",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.140L",
-        price: 139,
+        price: 159,
         description: "White LadyGordons, Cointreau, fresh lime, lemon peel",
         description_uk: "Tanqueray,Cointreau, лимонний фреш, цедра лимона", 
         category: "CLASSIC COCKTAILS"
@@ -3121,7 +3144,7 @@ export const food_list = [
         name_uk: "Манхеттен",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.150L",
-        price: 203,
+        price: 233,
         description: "Bulleit Bourbon, Martini Rosso,Angostura",
         description_uk: "Bulleit Bourbon, Martini Rosso, Angostura", 
         category: "CLASSIC COCKTAILS"
@@ -3131,7 +3154,7 @@ export const food_list = [
         name_uk: "Яблучний Мартіні",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.80L",
-        price: 121,
+        price: 139,
         description: "Tanqueray, Torino Extra Dry Montanaro, apple liquor",
         description_uk: "Tanqueray, Torino Extra Dry Montanaro,лікер яблучний", 
         category: "CLASSIC COCKTAILS"
@@ -3141,7 +3164,7 @@ export const food_list = [
         name_uk: "Май-Тай",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.150L",
-        price: 173,
+        price: 198,
         description: "Tanqueray, Torino Extra Dry Montanaro, apple liqueur",
         description_uk: "Tanqueray, Torino Extra Dry Montanaro, яблучний лікер", 
         category: "CLASSIC COCKTAILS"
@@ -3151,7 +3174,7 @@ export const food_list = [
         name_uk: "Дайкірі з медом та базиліком ",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.120L",
-        price: 163,
+        price: 187,
         description: "Captain Morgan White Rum, honey syrup, basil",
         description_uk: "Captain Morgan White Rum, медовий сироп, базилік", 
         category: "CLASSIC COCKTAILS"
@@ -3161,7 +3184,7 @@ export const food_list = [
         name_uk: "Зелена Фея",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.340L",
-        price: 290,
+        price: 333,
         description: "Xenta Absenta, True Tequila Silver, Rada,Captain Morgan White Rum, RedBull, liquor Blue-Curacao, liquor melon, freshlemon",
         description_uk: "Xenta Absenta,True Tequila Silver, Rada, Captain Morgan White Rum, RedBull, лікер блю-кюрасао, лікер диня, фреш лимона", 
         category: "CLASSIC COCKTAILS"
@@ -3171,7 +3194,7 @@ export const food_list = [
         name_uk: "Флірт Маргарита",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.250L",
-        price: 172,
+        price: 197,
         description: "True Tequila Gold,Campari, Sprite, fruitfruit syrup, orange",
         description_uk: "True Tequila Gold, Campari, спрайт,сироп маракуя, апельсин", 
         category: "CLASSIC COCKTAILS"
@@ -3181,7 +3204,7 @@ export const food_list = [
         name_uk: "Лонг-Айленд ",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.350L",
-        price: 290,
+        price: 333,
         description: "Rada,Captain Morgan White Rum, Gordons, True Tequila Silver, Triple Sec ,fresh lime, Coca-Cola",
         description_uk: "Лонг-Айленд Rada, Captain Morgan White Rum, Tanqueray,True Tequila Silver, Triple Sec,фреш лайма, Coca-Cola", 
         category: "CLASSIC COCKTAILS"
@@ -3191,7 +3214,7 @@ export const food_list = [
         name_uk: "Aperol Spritz",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.230L",
-        price: 155,
+        price: 178,
         description: "Aperol, Prosecco, Soda",
         description_uk: "Aperol, Prosecco,содова", 
         category: "CLASSIC COCKTAILS"
@@ -3201,7 +3224,7 @@ export const food_list = [
         name_uk: "Піно Колада",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.250L",
-        price: 181,
+        price: 208,
         description: "Morgan white rum, Malibu, coconut syrup, pineapple juice, orange",
         description_uk: " ром морган білий, малібу, сироп кокосовий, ананас.сік, апельсин", 
         category: "CLASSIC COCKTAILS"
@@ -3212,7 +3235,7 @@ export const food_list = [
         name_uk: "Кровава Мері",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.120L",
-        price: 161,
+        price: 185,
         description: "RADA Premium Classic, tomato juice, salt, pepper, Worcestershire, Tabasco, lemon juice",
         description_uk: "RADA Premium Classic, сік томатний, сіль,перець, ворчестер, табаска, лимонний фреш", 
         category: "CLASSIC COCKTAILS"
@@ -3222,7 +3245,7 @@ export const food_list = [
         name_uk: "Маргарита",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.120L",
-        price: 186,
+        price: 213,
         description: "True Tequila, Volare Triple Sec liqueur, fresh lime, lime",
         description_uk: "True Tequila, лікер Воларе Тріпл Сек,фреш лайм, лайм", 
         category: "CLASSIC COCKTAILS"
@@ -3232,7 +3255,7 @@ export const food_list = [
         name_uk: "Маргарита полунична",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.120L",
-        price: 186,
+        price: 213,
         description: "True Tequila, Volare Triple Sec liqueur, fresh lime, strawberry syrup, lime",
         description_uk: " True Tequila, лікер Воларе Тріпл Сек, фреш лайм, сироп полуничний, лайм", 
         category: "CLASSIC COCKTAILS"
@@ -3242,7 +3265,7 @@ export const food_list = [
         name_uk: "Хуго",
         image: CLASSIC_COCKTAILS_cat,
         gram: "0.350L",
-        price: 179,
+        price: 205,
         description: " Lambrusco Bianco, soda, syrup, lime, mint",
         description_uk: " Ламбруско Б'янко,содова, сироп, лайм, м'ята", 
         category: "CLASSIC COCKTAILS"
@@ -3254,7 +3277,7 @@ export const food_list = [
         name_uk: "Зелений мексиканець",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 160,
+        price: 184,
         description: "Banana liquor, fresh lime, True Tequila Silver",
         description_uk: "Банановий лікер, фреш лайма, True Tequila Silver", 
         category: "SHOT-DRINK"
@@ -3264,7 +3287,7 @@ export const food_list = [
         name_uk: "Б-52",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 172,
+        price: 197,
         description: "Kahlua, Baileys, Cointreau",
         description_uk: "Калуа, Бейліс, Куантро", 
         category: "SHOT-DRINK"
@@ -3274,7 +3297,7 @@ export const food_list = [
         name_uk: "Хіросіма",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 180,
+        price: 207,
         description: " Sambuca, Baileys, Xenta Absenta, grenadine",
         description_uk: " Самбука, Бейліз, Ксента Абсента, Гренадін", 
         category: "SHOT-DRINK"
@@ -3284,7 +3307,7 @@ export const food_list = [
         name_uk: "Медуза",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 160,
+        price: 184,
         description: "Malibu, Triple Sec, rum white, Baileys, Blue Curacao",
         description_uk: " Малібу, Тріпл сек, ром білий,бейліз, блю курасаю", 
         category: "SHOT-DRINK"
@@ -3294,7 +3317,7 @@ export const food_list = [
         name_uk: "Бахус",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 180,
+        price: 207,
         description: " Metaxa 7, liquor apricot, dried apricots",
         description_uk: " Metaxa 7, фреш лайма,лікер абрикосовий, курага", 
         category: "SHOT-DRINK"
@@ -3304,7 +3327,7 @@ export const food_list = [
         name_uk: "Пілот",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 160,
+        price: 184,
         description: " xenta Absenta, Lambrusco bianco",
         description_uk: " ксента Абсента, Ламбруско б'янко", 
         category: "SHOT-DRINK"
@@ -3314,7 +3337,7 @@ export const food_list = [
         name_uk: "BMW",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 160,
+        price: 184,
         description: "Baileys, Malibu, Red Label",
         description_uk: " Бейліз, Малібу, РедЛейбл", 
         category: "SHOT-DRINK"
@@ -3324,7 +3347,7 @@ export const food_list = [
         name_uk: "Невинний секс",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 160,
+        price: 184,
         description: "Sambuca,Baileys, Triple Sec",
         description_uk: "Самбука,Бейліз,Тріпл Сек", 
         category: "SHOT-DRINK"
@@ -3334,7 +3357,7 @@ export const food_list = [
         name_uk: "Казантип",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 172,
+        price: 197,
         description: "grenadine, liquor coffee, Sambuca, Baileys, Absenta",
         description_uk: " гренадин,лікер кава, самбука, бейліз, абсент", 
         category: "SHOT-DRINK"
@@ -3344,7 +3367,7 @@ export const food_list = [
         name_uk: "Кокаїн",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 172,
+        price: 197,
         description: " sambuca(cold), fresh lemon, Real Tequila Gold",
         description_uk: "  самбука (холодна), фреш лимона, Справжня текіла золото", 
         category: "SHOT-DRINK"
@@ -3354,7 +3377,7 @@ export const food_list = [
         name_uk: "Ауді",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 172,
+        price: 197,
         description: " sambuca, triple sec, malibu, tequila",
         description_uk: " самбука, тріпл сек, малібу,текіла", 
         category: "SHOT-DRINK"
@@ -3364,7 +3387,7 @@ export const food_list = [
         name_uk: "Лоботомія",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 172,
+        price: 197,
         description: " coffee liqueur, triple sec, white tequila, tabasco",
         description_uk: " лікер кавовий, тріпл сек, текіла біла,табаско", 
         category: "SHOT-DRINK"
@@ -3374,7 +3397,7 @@ export const food_list = [
         name_uk: "Опіум",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 172,
+        price: 197,
         description: " sambuca, becherivka, absinthe",
         description_uk: " самбука, бехерівка, абсент", 
         category: "SHOT-DRINK"
@@ -3384,7 +3407,7 @@ export const food_list = [
         name_uk: "Око Дракона",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 180,
+        price: 207,
         description: " Peach liqueur, lemon fresh, absinthe, cherry",
         description_uk: " Лікер персиковий,фреш лимона, абсент, вишня", 
         category: "SHOT-DRINK"
@@ -3394,7 +3417,7 @@ export const food_list = [
         name_uk: "Б-53",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 172,
+        price: 197,
         description: " Coffee liqueur, Baileys, absinthe",
         description_uk: " Лікер кавовий, бейліз,абсент", 
         category: "SHOT-DRINK"
@@ -3404,7 +3427,7 @@ export const food_list = [
         name_uk: "Бахус",
         image: SHOT_DRINK_cat,
         gram: "0.06L",
-        price: 180,
+        price: 207,
         description: " Peach liqueur, fresh lemon, Metaxa",
         description_uk: "Бахус Лікер персиковий,фреш лимона, метакса", 
         category: "SHOT-DRINK"
@@ -3416,7 +3439,7 @@ export const food_list = [
         name_uk: "Чай Дубаі",
         image: TEA_cat,
         gram: "0.5L",
-        price: 380,
+        price: 437,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3426,7 +3449,7 @@ export const food_list = [
         name_uk: "Чай чорний",
         image: TEA_cat,
         gram: "0.5L",
-        price: 133,
+        price: 152,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3436,7 +3459,7 @@ export const food_list = [
         name_uk: "Чай чорний з чебрецем та кардамоном",
         image: TEA_cat,
         gram: "0.5L",
-        price: 155,
+        price: 178,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3446,7 +3469,7 @@ export const food_list = [
         name_uk: "Чай зелений Сенча",
         image: TEA_cat,
         gram: "0.5L",
-        price: 133,
+        price: 152,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3456,7 +3479,7 @@ export const food_list = [
         name_uk: "Чай зелений з жасмином",
         image: TEA_cat,
         gram: "0.5L",
-        price: 133,
+        price: 152,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3466,7 +3489,7 @@ export const food_list = [
         name_uk: "Чай Велнес Кап",
         image: TEA_cat,
         gram: "0.5L",
-        price: 133,
+        price: 152,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3476,7 +3499,7 @@ export const food_list = [
         name_uk: "Чай з ромашкою",
         image: TEA_cat,
         gram: "0.5L",
-        price: 165,
+        price: 189,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3486,7 +3509,7 @@ export const food_list = [
         name_uk: "Чай по-східному",
         image: TEA_cat,
         gram: "0.5L",
-        price: 270,
+        price: 310,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3496,7 +3519,7 @@ export const food_list = [
         name_uk: "Чай з обліпихою",
         image: TEA_cat,
         gram: "0.5L",
-        price: 165,
+        price: 189,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3506,7 +3529,7 @@ export const food_list = [
         name_uk: "Чай ягідний",
         image: TEA_cat,
         gram: "0.5L",
-        price: 165,
+        price: 189,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3516,7 +3539,7 @@ export const food_list = [
         name_uk: "Чай яблучний",
         image: TEA_cat,
         gram: "0.5L",
-        price: 165,
+        price: 189,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3526,7 +3549,7 @@ export const food_list = [
         name_uk: "Чай гострий манго",
         image: TEA_cat,
         gram: "0.5L",
-        price: 165,
+        price: 189,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3536,7 +3559,7 @@ export const food_list = [
         name_uk: "Чай фруктовий ",
         image: TEA_cat,
         gram: "0.5L",
-        price: 171,
+        price: 196,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3546,7 +3569,7 @@ export const food_list = [
         name_uk: "Чай з бергамотом ",
         image: TEA_cat,
         gram: "0.5L",
-        price: 171,
+        price: 196,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3556,7 +3579,7 @@ export const food_list = [
         name_uk: "Чай матча",
         image: TEA_cat,
         gram: "0.5L",
-        price: 147,
+        price: 169,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3566,7 +3589,7 @@ export const food_list = [
         name_uk: "Чай карак",
         image: TEA_cat,
         gram: "0.5L",
-        price: 226,
+        price: 259,
         description: " ",
         description_uk: "", 
         category: "TEA"
@@ -3578,7 +3601,7 @@ export const food_list = [
         name_uk: "Еспресо",
         image: COFFEE_cat,
         gram: "",
-        price: 52,
+        price: 60,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3588,7 +3611,7 @@ export const food_list = [
         name_uk: "Ристретто",
         image: COFFEE_cat,
         gram: "",
-        price: 52,
+        price: 60,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3598,7 +3621,7 @@ export const food_list = [
         name_uk: "Американо",
         image: COFFEE_cat,
         gram: "",
-        price: 52,
+        price: 60,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3608,7 +3631,7 @@ export const food_list = [
         name_uk: "Капучино",
         image: COFFEE_cat,
         gram: "",
-        price: 58,
+        price: 66,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3618,7 +3641,7 @@ export const food_list = [
         name_uk: "Капучино з мигдальним молоком",
         image: COFFEE_cat,
         gram: "",
-        price: 69,
+        price: 79,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3628,7 +3651,7 @@ export const food_list = [
         name_uk: "Доппіо",
         image: COFFEE_cat,
         gram: "",
-        price: 69,
+        price: 79,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3638,7 +3661,7 @@ export const food_list = [
         name_uk: "Латте",
         image: COFFEE_cat,
         gram: "",
-        price: 73,
+        price: 83,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3648,7 +3671,7 @@ export const food_list = [
         name_uk: "Латте на мигдальному молоці",
         image: COFFEE_cat,
         gram: "",
-        price: 85,
+        price: 97,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3658,7 +3681,7 @@ export const food_list = [
         name_uk: "Латте матча",
         image: COFFEE_cat,
         gram: "",
-        price: 114,
+        price: 131,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3668,7 +3691,7 @@ export const food_list = [
         name_uk: "Раф-кава",
         image: COFFEE_cat,
         gram: "",
-        price: 73,
+        price: 86,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3678,7 +3701,7 @@ export const food_list = [
         name_uk: "Кавапо-східному",
         image: COFFEE_cat,
         gram: "",
-        price: 139,
+        price: 289,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3688,7 +3711,7 @@ export const food_list = [
         name_uk: "Глясе",
         image: COFFEE_cat,
         gram: "",
-        price: 82,
+        price: 94,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3698,7 +3721,7 @@ export const food_list = [
         name_uk: "Фраппе з сиропом",
         image: COFFEE_cat,
         gram: "",
-        price: 81,
+        price: 93,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3709,7 +3732,7 @@ export const food_list = [
         name_uk: "Флет уайт",
         image: COFFEE_cat,
         gram: "",
-        price: 82,
+        price: 94,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
@@ -3719,7 +3742,7 @@ export const food_list = [
         name_uk: "Какао з вершками та печивом",
         image: COFFEE_cat,
         gram: "",
-        price: 87,
+        price: 100,
         description: " ",
         description_uk: "", 
         category: "COFFEE"
