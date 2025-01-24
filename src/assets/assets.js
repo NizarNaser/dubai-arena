@@ -3571,6 +3571,159 @@ export const food_list = [
         description_uk: "", 
         category: "TEA"
     },
+    //KABA COFFEE
+    {
+        _id: "273",
+        name: "Espresso",
+        name_uk: "Еспресо",
+        image: COFFEE_cat,
+        gram: "",
+        price: 52,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "274",
+        name: "Ristretto",
+        name_uk: "Ристретто",
+        image: COFFEE_cat,
+        gram: "",
+        price: 52,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "275",
+        name: "Americano",
+        name_uk: "Американо",
+        image: COFFEE_cat,
+        gram: "",
+        price: 52,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "276",
+        name: "Cappuccino",
+        name_uk: "Капучино",
+        image: COFFEE_cat,
+        gram: "",
+        price: 58,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "277",
+        name: "Cappuccino with almond milk",
+        name_uk: "Капучино з мигдальним молоком",
+        image: COFFEE_cat,
+        gram: "",
+        price: 69,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "278",
+        name: "Espresso Doppio",
+        name_uk: "Доппіо",
+        image: COFFEE_cat,
+        gram: "",
+        price: 69,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "279",
+        name: "Latte",
+        name_uk: "Латте",
+        image: COFFEE_cat,
+        gram: "",
+        price: 73,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "280",
+        name: "Latte on almond milk",
+        name_uk: "Латте на мигдальному молоці",
+        image: COFFEE_cat,
+        gram: "",
+        price: 85,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "281",
+        name: "Latte matcha",
+        name_uk: "Латте матча",
+        image: COFFEE_cat,
+        gram: "",
+        price: 114,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "282",
+        name: "Raf coffee",
+        name_uk: "Раф-кава",
+        image: COFFEE_cat,
+        gram: "",
+        price: 73,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "283",
+        name: "Coffee oriental",
+        name_uk: "Кавапо-східному",
+        image: COFFEE_cat,
+        gram: "",
+        price: 139,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "284",
+        name: "Glasse",
+        name_uk: "Глясе",
+        image: COFFEE_cat,
+        gram: "",
+        price: 82,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "285",
+        name: "Frape",
+        name_uk: "Фраппе з сиропом",
+        image: COFFEE_cat,
+        gram: "",
+        price: 81,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },
+    {
+        _id: "286",
+        name: "Flat White",
+        name_uk: "Флет уайт",
+        image: COFFEE_cat,
+        gram: "",
+        price: 82,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    },{
+        _id: "287",
+        name: "Cocoa with cream and biscuits",
+        name_uk: "Какао з вершками та печивом",
+        image: COFFEE_cat,
+        gram: "",
+        price: 87,
+        description: " ",
+        description_uk: "", 
+        category: "COFFEE"
+    }
 ]
 
 
