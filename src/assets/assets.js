@@ -16,6 +16,7 @@ import SANDWICHES_cat from './menu/SANDWICHES/SANDWICHES_cat.webp'
 import SIDES_cat from './menu/SIDES/SIDES_cat.webp'
 import DESSERTS_cat from './menu/DESSERTS/DESSERTS_cat.webp'
 import SAUCES_cat from './menu/SAUCES/SAUCES_cat.webp'
+//bar categores
 import wine_cat from './menu/bar/wine/wine_cat.webp'
 import SOFT_DRINKS_cat from './menu/bar/soft_drinks/drink_cat.webp'
 import CHANPAGNE_cat from './menu/bar/chanpagne/CHANPAGNE_cat.webp'
@@ -179,6 +180,17 @@ import Bish_de_nouvelle from './menu/DESSERTS/Bish_de_nouvelle.webp'
 import Opera from './menu/DESSERTS/Opera.webp'
 import Tiramisu_with_strawberries from './menu/DESSERTS/Tiramisu_with_strawberries.webp'
 import Chocolate_fondant from './menu/DESSERTS/Chocolate_fondant.webp'
+//bar
+//wine
+import Dourthe_No1_Bordeaux_Rouge from './menu/bar/wine/Dourthe_No1_Bordeaux_Rouge.png'
+import Domini_Veneti_Valpolicella_Classico from './menu/bar/wine/Domini_Veneti _Valpolicella_Classico.png'
+import Casillero_del_Diablo_Merlot from './menu/bar/wine/Casillero_del_Diablo_Merlot.png'
+import del_Diablo_Cabernet_Sauvignon from './menu/bar/wine/del_Diablo_Cabernet_Sauvignon.png'
+import Settesori_Pinot_Grigio from './menu/bar/wine/Settesori_Pinot_Grigio.png'
+import Latinium_Riesling from './menu/bar/wine/Latinium_Riesling.png'
+import Latinium_Gewurztraminer from './menu/bar/wine/Latinium_Gewurztraminer.png'
+import Casillero_del_Diablo_Merlot_chily from './menu/bar/wine/Casillero_del_Diablo_Merlot_chily.png'
+import Casillero_del_Diablo_Carmener from './menu/bar/wine/Casillero_del_Diablo_Carmener.png'
 
 
 
@@ -1781,7 +1793,7 @@ export const food_list = [
         _id: "111",
         name: "Dourthe No1 Bordeaux Rouge",
         name_uk: "Dourthe No1 Bordeaux Rouge",
-        image: noimg,
+        image: Dourthe_No1_Bordeaux_Rouge,
         gram: 0.75+"L",
         price: 1642,
         description: "RED/FRANCE",
@@ -1790,9 +1802,9 @@ export const food_list = [
         category: "WINE"
     },{
         _id: "112",
-        name: "Domini Veneti -Valpolicella Classico-",
-        name_uk: "Domini Veneti -Valpolicella Classico-",
-        image: noimg,
+        name: "Domini Veneti -Valpolicella Classico",
+        name_uk: "Domini Veneti -Valpolicella Classico",
+        image: Domini_Veneti_Valpolicella_Classico,
         gram: 0.75+"L",
         price: 2174,
         description: "RED/ITALY",
@@ -1803,7 +1815,7 @@ export const food_list = [
         _id: "112",
         name: "Casillero del Diablo Merlot-spill",
         name_uk: "Casillero del Diablo Merlot-розлив",
-        image: noimg,
+        image: Casillero_del_Diablo_Merlot_chily,
         gram: 0.150+"L",
         price: 201,
         description: "RED/CHILE  - 0.75L/1005 UAH ",
@@ -1814,7 +1826,7 @@ export const food_list = [
         _id: "113",
         name: "del Diablo Cabernet Sauvignon -spill",
         name_uk: "del Diablo Cabernet Sauvignon -розлив",
-        image: noimg,
+        image: del_Diablo_Cabernet_Sauvignon ,
         gram: 0.150+"L",
         price: 233,
         description: "RED/CHILE  - 0.75L/1165 UAH ",
@@ -1825,7 +1837,7 @@ export const food_list = [
         _id: "114",
         name: "Settesori Pinot Grigio -spill",
         name_uk: "Settesori Pinot Grigio -розлив",
-        image: noimg,
+        image: Settesori_Pinot_Grigio,
         gram: 0.150+"L",
         price: 247,
         description: "WHITE ",
@@ -1836,7 +1848,7 @@ export const food_list = [
         _id: "115",
         name: "Latinium Riesling -spill",
         name_uk: "Latinium Riesling -розлив",
-        image: noimg,
+        image: Latinium_Riesling,
         gram: 0.150+"L",
         price: 189,
         description: "WHITE ",
@@ -1847,7 +1859,7 @@ export const food_list = [
         _id: "116",
         name: "Latinium Gewurztraminer -spill",
         name_uk: "Latinium Gewurztraminer -розлив",
-        image: noimg,
+        image: Latinium_Gewurztraminer,
         gram: 0.150+"L",
         price: 189,
         description: "WHITE ",
@@ -1858,7 +1870,7 @@ export const food_list = [
         _id: "117",
         name: "Casillerodel Diablo Merlot -spill",
         name_uk: "Casillerodel Diablo Merlot -розлив",
-        image: noimg,
+        image: Casillero_del_Diablo_Merlot ,
         gram: 0.150+"L",
         price: 254,
         description: "RED - 0.75L/1270 UAH  ",
@@ -1869,7 +1881,7 @@ export const food_list = [
         _id: "118",
         name: "Casillero del Diablo Carmener -spill",
         name_uk: "Casillero del Diablo Carmener -розлив",
-        image: noimg,
+        image: Casillero_del_Diablo_Carmener,
         gram: 0.150+"L",
         price: 254,
         description: "RED - 0.75L/1270 UAH ",
