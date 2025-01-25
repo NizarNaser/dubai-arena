@@ -175,12 +175,10 @@ import Fruit_salad from './menu/DESSERTS/Fruit_salad.webp'
 import Fruchtscheiben_1000 from './menu/DESSERTS/Fruchtscheiben_1000.webp'
 import Fruchtscheiben_500 from './menu/DESSERTS/Fruchtscheiben_500.webp'
 import Ice_cream from './menu/DESSERTS/Ice_cream.webp'
-
-
-
-
-
-
+import Bish_de_nouvelle from './menu/DESSERTS/Bish_de_nouvelle.webp'
+import Opera from './menu/DESSERTS/Opera.webp'
+import Tiramisu_with_strawberries from './menu/DESSERTS/Tiramisu_with_strawberries.webp'
+import Chocolate_fondant from './menu/DESSERTS/Chocolate_fondant.webp'
 
 
 
@@ -1646,9 +1644,9 @@ export const food_list = [
     //ДЕСЕРТИ DESSERTS
     {
         _id: "289",
-        name: "Фондан шоколадний",
+        name: "Chocolate fondant",
         name_uk: "Фондан шоколадний",
-        image: noimg,
+        image: Chocolate_fondant,
         gram: 200,
         price: 264,
         description: "",
@@ -1669,9 +1667,9 @@ export const food_list = [
         category: "DESSERTS"
     },{
         _id: "288",
-        name: "Тірамісу зполуницею",
+        name: "Tiramisu with strawberries",
         name_uk: "Тірамісу зполуницею",
-        image: noimg,
+        image: Tiramisu_with_strawberries,
         gram: 200,
         price: 234,
         description: "",
@@ -1691,9 +1689,9 @@ export const food_list = [
         category: "DESSERTS"
     }, {
         _id: "104",
-        name: "Опера",
+        name: "Opera",
         name_uk: "Опера",
-        image: noimg,
+        image: Opera,
         gram: 200,
         price: 186,
         description: "",
@@ -1713,7 +1711,7 @@ export const food_list = [
         category: "DESSERTS"
     }, {
         _id: "106",
-        name: "Форенуар фруктовий ",
+        name: "Forenoir fruity ",
         name_uk: "Форенуар фруктовий ",
         image: noimg,
         gram: 200,
@@ -1724,9 +1722,9 @@ export const food_list = [
         category: "DESSERTS"
     }, {
         _id: "107",
-        name: "Біш де нувел",
+        name: "Bish de nouvelle",
         name_uk: "Біш де нувел",
-        image: noimg,
+        image: Bish_de_nouvelle,
         gram: 200,
         price: 213,
         description: "",
