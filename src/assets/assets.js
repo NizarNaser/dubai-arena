@@ -191,6 +191,29 @@ import Latinium_Riesling from './menu/bar/wine/Latinium_Riesling.png'
 import Latinium_Gewurztraminer from './menu/bar/wine/Latinium_Gewurztraminer.png'
 import Casillero_del_Diablo_Merlot_chily from './menu/bar/wine/Casillero_del_Diablo_Merlot_chily.png'
 import Casillero_del_Diablo_Carmener from './menu/bar/wine/Casillero_del_Diablo_Carmener.png'
+//chanpagne
+import Moët_Chandon_Impérial from './menu/bar/chanpagne/Moët_Chandon_Impérial.png'
+import Moët_Chandon_Rosé_Impérial from './menu/bar/chanpagne/Moët_Chandon_Rosé_Impérial.png'
+import Cava_Arte_Latino_Brut from './menu/bar/chanpagne/Cava_Arte_Latino_Brut.png'
+import Terra_Serena_Prosecco_Spumante from './menu/bar/chanpagne/Terra_Serena_Prosecco_Spumante.png'
+import Cristal from './menu/bar/chanpagne/Cristal.png'
+import Sensi_Prosecco from './menu/bar/chanpagne/Sensi_Prosecco.png'
+import Val_D_Oca_Prosecco_Superiore_Valdobbiadene_DOC6 from './menu/bar/chanpagne/Val_D_Oca_Prosecco_Superiore_Valdobbiadene_DOC6.png'
+//APERETIF BITTER TINCTURE
+import Xenta_Absenta from './menu/bar/aperetif-bitter-tincture/Xenta_Absenta.png'
+import Campari from './menu/bar/aperetif-bitter-tincture/Campari.png'
+//import Artichoke_Supag from './menu/bar/aperetif-bitter-tincture/Artichoke_Supag.png'
+//VODKA
+import ciroc from './menu/bar/vodka/ciroc.png'
+import Belvedere from './menu/bar/vodka/Belvedere.png'
+import Nemiroff_De_Luxe from './menu/bar/vodka/Nemiroff_De_Luxe.png'
+import Nemiroff_Lex from './menu/bar/vodka/Nemiroff_Lex.png'
+import Finland_in_assortment from './menu/bar/vodka/Finland_in_assortment.png'
+import Grey_goose from './menu/bar/vodka/Grey_goose.png'
+//RUM
+
+
+
 
 
 
@@ -1895,7 +1918,7 @@ export const food_list = [
         _id: "119",
         name: "Moët Chandon Impérial",
         name_uk: "Moët Chandon Impérial",
-        image: noimg,
+        image: Moët_Chandon_Impérial,
         gram: 0.750+"L",
         price: 6601,
         description: "",
@@ -1906,7 +1929,7 @@ export const food_list = [
         _id: "120",
         name: "Moët Chandon Rosé Impérial",
         name_uk: "Moët Chandon Rosé Impérial",
-        image: noimg,
+        image: Moët_Chandon_Rosé_Impérial,
         gram: 0.750+"L",
         price: 7245,
         description: "",
@@ -1917,7 +1940,7 @@ export const food_list = [
         _id: "121",
         name: "Cava Arte Latino Brut",
         name_uk: "Cava Arte Latino Brut",
-        image: noimg,
+        image: Cava_Arte_Latino_Brut,
         gram: 0.750+"L",
         price: 1219,
         description: "",
@@ -1928,7 +1951,7 @@ export const food_list = [
         _id: "122",
         name: "Terra Serena Prosecco Spumante",
         name_uk: "Terra Serena Prosecco Spumante",
-        image: noimg,
+        image: Terra_Serena_Prosecco_Spumante,
         gram: 0.150+"L",
         price: 322,
         description: "0.75L/1105 UAH",
@@ -1939,7 +1962,7 @@ export const food_list = [
         _id: "123",
         name: "Crystal",
         name_uk: "Crystal",
-        image: noimg,
+        image: Cristal,
         gram: 0.750+"L",
         price: 44873,
         description: "",
@@ -1950,7 +1973,7 @@ export const food_list = [
         _id: "124",
         name: "Sensi Prosecco",
         name_uk: "Sensi Prosecco",
-        image: noimg,
+        image: Sensi_Prosecco,
         gram: 0.150+"L",
         price: 233,
         description: "0.75L/1165 UAH",
@@ -1961,7 +1984,7 @@ export const food_list = [
         _id: "125",
         name: "Val D'Oca Prosecco Superiore Valdobbiadene DOC 6",
         name_uk: "Val D'Oca Prosecco Superiore Valdobbiadene DOC 6",
-        image: noimg,
+        image: Val_D_Oca_Prosecco_Superiore_Valdobbiadene_DOC6,
         gram: 0.150+"L",
         price: 227,
         description: "0.75L/1135 UAH",
@@ -1972,7 +1995,7 @@ export const food_list = [
         _id: "126",
         name: "Xenta Absenta",
         name_uk: "Xenta Absenta",
-        image: noimg,
+        image: Xenta_Absenta,
         gram: 0.05+"L",
         price: 173,
         description: "",
@@ -1983,7 +2006,7 @@ export const food_list = [
         _id: "127",
         name: "Campari",
         name_uk: "Campari",
-        image: noimg,
+        image: Campari,
         gram: 0.05+"L",
         price: 162,
         description: "",
@@ -2007,7 +2030,7 @@ export const food_list = [
         _id: "129",
         name: "ciroc",
         name_uk: "ciroc",
-        image: noimg,
+        image: ciroc,
         gram: 0.05+"L",
         price: 253,
         description: "",
@@ -2018,7 +2041,7 @@ export const food_list = [
         _id: "130",
         name: "Belvedere",
         name_uk: "Belvedere",
-        image: noimg,
+        image: Belvedere,
         gram: 0.05+"L",
         price: 169,
         description: "",
@@ -2029,7 +2052,7 @@ export const food_list = [
         _id: "131",
         name: "Nemiroff De Luxe",
         name_uk: "Nemiroff De Luxe",
-        image: noimg,
+        image: Nemiroff_De_Luxe,
         gram: 0.05+"L",
         price: 110,
         description: "",
@@ -2040,7 +2063,7 @@ export const food_list = [
         _id: "132",
         name: "Nemiroff Lex",
         name_uk: "Nemiroff Lex",
-        image: noimg,
+        image: Nemiroff_Lex,
         gram: 0.05+"L",
         price: 155,
         description: "",
@@ -2051,7 +2074,7 @@ export const food_list = [
         _id: "133",
         name: "Finland in assortment",
         name_uk: "Фінляндія в асортименті",
-        image: noimg,
+        image: Finland_in_assortment,
         gram: 0.05+"L",
         price: 155,
         description: "",
@@ -2062,7 +2085,7 @@ export const food_list = [
         _id: "134",
         name: "Grey goose",
         name_uk: "Grey goose",
-        image: noimg,
+        image: Grey_goose,
         gram: 0.05+"L",
         price: 193,
         description: "",
@@ -2073,7 +2096,7 @@ export const food_list = [
         _id: "135",
         name: "becherovka",
         name_uk: "becherovka",
-        image: noimg,
+        image: TINCTURES_cat,
         gram: 0.05+"L",
         price: 132,
         description: "",
