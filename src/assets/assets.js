@@ -211,6 +211,18 @@ import Nemiroff_Lex from './menu/bar/vodka/Nemiroff_Lex.png'
 import Finland_in_assortment from './menu/bar/vodka/Finland_in_assortment.png'
 import Grey_goose from './menu/bar/vodka/Grey_goose.png'
 //RUM
+import Captain_Morgan_White_rum from './menu/bar/rum/Captain_Morgan_White_rum.png'
+import Captain_Morgan_Original_Spiced_Gold from './menu/bar/rum/Captain_Morgan_Original_Spiced_Gold.png'
+import Captain_Morgan_Dark_Rum from './menu/bar/rum/Captain_Morgan_Dark_Rum.png'
+import Captain_Morgan_Black_Spiced from './menu/bar/rum/Captain_Morgan_Black_Spiced.png'
+import Zacapa_23 from './menu/bar/rum/Zacapa_23.png'
+//TEQUILA
+import True_Tequila_Silver from './menu/bar/tequila/True_Tequila_Silver.png'
+import True_Tequila_Gold from './menu/bar/tequila/True_Tequila_Gold.png'
+import Don_Julio_Blanco from './menu/bar/tequila/Don_Julio_Blanco.png'
+import jose_cuervo_traditional_agava from './menu/bar/tequila/jose_cuervo_traditional_agava.png'
+//
+
 
 
 
@@ -2105,11 +2117,14 @@ export const food_list = [
         category: "TINCTURES"
     },
     //POM/RUM
+    
+
+
     {
         _id: "136",
         name: "Captain Morgan White Rum",
         name_uk: "Captain Morgan White Rum",
-        image: noimg,
+        image: Captain_Morgan_White_rum,
         gram: 0.05+"L",
         price: 164,
         description: "",
@@ -2120,7 +2135,7 @@ export const food_list = [
         _id: "137",
         name: "Captain Morgan Original Spiced Gold",
         name_uk: "Captain Morgan Original Spiced Gold",
-        image: noimg,
+        image: Captain_Morgan_Original_Spiced_Gold,
         gram: 0.05+"L",
         price: 164,
         description: "",
@@ -2131,7 +2146,7 @@ export const food_list = [
         _id: "138",
         name: "Captain Morgan Dark Rum",
         name_uk: "Captain Morgan Dark Rum",
-        image: noimg,
+        image: Captain_Morgan_Dark_Rum,
         gram: 0.05+"L",
         price: 164,
         description: "",
@@ -2142,7 +2157,7 @@ export const food_list = [
         _id: "139",
         name: "Captain Morgan Black Spiced",
         name_uk: "Captain Morgan Black Spiced",
-        image: noimg,
+        image: Captain_Morgan_Black_Spiced,
         gram: 0.05+"L",
         price: 173,
         description: "",
@@ -2153,7 +2168,7 @@ export const food_list = [
         _id: "140",
         name: "Zacapa 23",
         name_uk: "Zacapa 23",
-        image: noimg,
+        image: Zacapa_23,
         gram: 0.05+"L",
         price: 423,
         description: "",
@@ -2175,11 +2190,15 @@ export const food_list = [
         category: "MEZCAL"
     },
     //ТЕКІЛА /TEQUILA
+    
+
+
+
     {
         _id: "142",
         name: "True Tequila Silver",
         name_uk: "True Tequila Silver",
-        image: noimg,
+        image: True_Tequila_Silver,
         gram: 0.05+"L",
         price: 169,
         description: "",
@@ -2190,7 +2209,7 @@ export const food_list = [
         _id: "143",
         name: "True Tequila Gold",
         name_uk: "True Tequila Gold",
-        image: noimg,
+        image: True_Tequila_Gold,
         gram: 0.05+"L",
         price: 187,
         description: "",
@@ -2201,7 +2220,7 @@ export const food_list = [
         _id: "144",
         name: "Don Julio Blanco",
         name_uk: "Don Julio Blanco",
-        image: noimg,
+        image: Don_Julio_Blanco,
         gram: 0.05+"L",
         price: 247,
         description: "",
@@ -2212,7 +2231,7 @@ export const food_list = [
         _id: "145",
         name: "jose cuervo traditional agava",
         name_uk: "jose cuervo traditional agava",
-        image: noimg,
+        image: jose_cuervo_traditional_agava,
         gram: 0.05+"L",
         price: 221,
         description: "",
