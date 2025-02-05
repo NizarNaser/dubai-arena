@@ -221,6 +221,10 @@ import True_Tequila_Silver from './menu/bar/tequila/True_Tequila_Silver.png'
 import True_Tequila_Gold from './menu/bar/tequila/True_Tequila_Gold.png'
 import Don_Julio_Blanco from './menu/bar/tequila/Don_Julio_Blanco.png'
 import jose_cuervo_traditional_agava from './menu/bar/tequila/jose_cuervo_traditional_agava.png'
+//GIN
+import Tanqueray_London_Dry from './menu/bar/gin/Tanqueray_London_Dry.png'
+import Tanqueray_NoTEN from './menu/bar/gin/Tanqueray_NoTEN.png'
+import TGordons_Premium_Pink from './menu/bar/gin/TGordons-Premium-Pink.png'
 //
 
 
@@ -2244,18 +2248,19 @@ export const food_list = [
         _id: "146",
         name: "TGordon's Premium Pink",
         name_uk: "TGordon's Premium Pink",
-        image: noimg,
+        image: TGordons_Premium_Pink,
         gram: 0.05+"L",
         price: 161,
         description: "",
         description_uk: "",
     
         category: "GIN"
+
     },{
         _id: "147",
         name: "Tanqueray London Dry",
         name_uk: "Tanqueray London Dry",
-        image: noimg,
+        image: Tanqueray_London_Dry,
         gram: 0.05+"L",
         price: 196,
         description: "",
@@ -2266,7 +2271,7 @@ export const food_list = [
         _id: "148",
         name: "Tanqueray NoTEN",
         name_uk: "Tanqueray NoTEN",
-        image: noimg,
+        image: Tanqueray_NoTEN,
         gram: 0.05+"L",
         price: 212,
         description: "",
