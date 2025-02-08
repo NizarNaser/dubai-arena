@@ -2301,7 +2301,7 @@ export const food_list = [
         _id: "150",
         name: "Metaxa 12 Stars",
         name_uk: "Metaxa 12 Stars",
-        image: Metaxa_7_Star,
+        image: metaxa_12_stars,
         gram: 0.05+"L",
         price: 240,
         description: "",
