@@ -225,7 +225,12 @@ import jose_cuervo_traditional_agava from './menu/bar/tequila/jose_cuervo_tradit
 import Tanqueray_London_Dry from './menu/bar/gin/Tanqueray_London_Dry.png'
 import Tanqueray_NoTEN from './menu/bar/gin/Tanqueray_NoTEN.png'
 import TGordons_Premium_Pink from './menu/bar/gin/TGordons-Premium-Pink.png'
+//brandy
+import Calvados_Paul_Devoille_VSOP from './menu/bar/brandy/Calvados_Paul_Devoille_VSOP.png'
+import Metaxa_7_Star from './menu/bar/brandy/Metaxa_7_Star.png'
+import metaxa_12_stars from './menu/bar/brandy/metaxa_12_stars.png'
 //
+
 
 
 
@@ -2280,11 +2285,12 @@ export const food_list = [
         category: "GIN"
     },
     //BRANDY, CALVADOS, GRAPPA
+
     {
         _id: "149",
         name: "Metaxa 7 Star",
         name_uk: "Metaxa 7 Star",
-        image: noimg,
+        image: Metaxa_7_Star,
         gram: 0.05+"L",
         price: 152,
         description: "",
@@ -2295,7 +2301,7 @@ export const food_list = [
         _id: "150",
         name: "Metaxa 12 Stars",
         name_uk: "Metaxa 12 Stars",
-        image: noimg,
+        image: Metaxa_7_Star,
         gram: 0.05+"L",
         price: 240,
         description: "",
@@ -2306,7 +2312,7 @@ export const food_list = [
         _id: "151",
         name: "Calvados Paul Devoille VSOP",
         name_uk: "Calvados Paul Devoille VSOP",
-        image: noimg,
+        image: Calvados_Paul_Devoille_VSOP,
         gram: 0.05+"L",
         price: 159,
         description: "",
