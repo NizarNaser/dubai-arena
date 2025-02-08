@@ -297,12 +297,12 @@ export const menu_list = [
         addel: "Kichen"
     }, {
         menu_name: "SOUP",
-        menu_name_uk: "СУП",
+        menu_name_uk: "СУПИ",
         menu_image: Lentil_Cream_Soup_cat,
         addel: "Kichen"
     }, {
         menu_name: "SALAD",
-        menu_name_uk: "САЛАТ",
+        menu_name_uk: "САЛАТИ",
         menu_image: Seafood_Salad_cat,
         addel: "Kichen"
     }, {
