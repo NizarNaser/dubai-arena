@@ -292,7 +292,7 @@ export const addel_list = [
 export const menu_list = [
     {
         menu_name: "BREAKFAST",
-        menu_name_uk: "СНІДАНОК",
+        menu_name_uk: "СНІДАНОКИ",
         menu_image: Shakshuka_classic_cat,
         addel: "Kichen"
     }, {
