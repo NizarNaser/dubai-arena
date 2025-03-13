@@ -294,10 +294,11 @@ export const addel_list = [
     }
 ]
 
+//caregories
 export const menu_list = [
     {
         menu_name: "BREAKFAST",
-        menu_name_uk: "СНІДАНОКИ",
+        menu_name_uk: "СНІДАНКИ",
         menu_image: Shakshuka_classic_cat,
         addel: "Kichen"
     }, {
@@ -317,7 +318,7 @@ export const menu_list = [
         addel: "Kichen"
     }, {
         menu_name: "MAIN COURSE",
-        menu_name_uk: "ОСНОВНА СТРАВА",
+        menu_name_uk: "ОСНОВНІ СТРАВИ",
         menu_image: MAIN_COURSE_cat,
         addel: "Kichen"
     }, {
@@ -347,7 +348,7 @@ export const menu_list = [
         addel: "Kichen"
     }, {
         menu_name: "SIDES",
-        menu_name_uk: "гарніри",
+        menu_name_uk: "ГАРНІРИ",
         menu_image: SIDES_cat,
         addel: "Kichen"
     }, {
@@ -375,7 +376,7 @@ export const menu_list = [
         addel: "Bar"
     },{
         menu_name: "APERETIF  BITTER TINCTURE",
-        menu_name_uk: "АПЕРИТИВ БІТТЕР НАСТОЯНКА",
+        menu_name_uk: "АПЕРАТИВ БІТТЕР НАСТОЯНКА",
         menu_image: APERETIF_BITTER_TINCTURE_cat,
         addel: "Bar"
     },{
@@ -384,44 +385,28 @@ export const menu_list = [
         menu_image: VODKA_cat,
         addel: "Bar"
     },{
-        menu_name: "TINCTURES",
-        menu_name_uk: "НАСТОИКИ",
-        menu_image: TINCTURES_cat,
-        addel: "Bar"
-    },{
         menu_name: "RUM",
         menu_name_uk: "POM",
         menu_image: RUM_cat,
         addel: "Bar"
     },{
-        menu_name: "MEZCAL",
-        menu_name_uk: " МЕСКАЛЬ",
-        menu_image: MEZCAL_cat,
-        addel: "Bar"
-    },{
-        menu_name: "TEQUILA",
-        menu_name_uk: "ТЕКІЛА",
+        menu_name: "TEQUILA MEZCAL",
+        menu_name_uk: "ТЕКІЛА МЕСКАЛЬ",
         menu_image: TEQUILA_cat,
         addel: "Bar"
-    },
-    {
+    },{
         menu_name: "GIN",
         menu_name_uk: "ДЖИН",
         menu_image: GIN_cat,
         addel: "Bar"
     },{
-        menu_name: "BRANDY CALVADOS GRAPPA",
-        menu_name_uk: "БРЕНДІ КАЛЬВАДОС ГРАПП",
-        menu_image: BRANDY_CALVADOS_GRAPPA_cat,
-        addel: "Bar"
-    },{
-        menu_name: "СOGNAC",
-        menu_name_uk: "Коньяк",
+        menu_name: "СOGNAC BRANDY",
+        menu_name_uk: "Коньяк Бренді",
         menu_image: СOGNAC_cat,
         addel: "Bar"
     },{
         menu_name: "WHISKEY",
-        menu_name_uk: "BICKИ",
+        menu_name_uk: "BICKІ",
         menu_image: WHISKEY_cat,
         addel: "Bar"
     },{
@@ -436,7 +421,7 @@ export const menu_list = [
         addel: "Bar"
     },{
         menu_name: "SYRUP",
-        menu_name_uk: "СИРОП",
+        menu_name_uk: "СИРОПИ",
         menu_image: SYRUP_cat,
         addel: "Bar"
     },{
@@ -456,7 +441,7 @@ export const menu_list = [
         addel: "Bar"
     },{
         menu_name: "LEMONADE",
-        menu_name_uk: "ЛИМОНАД",
+        menu_name_uk: "ЛИМОНАДИ",
         menu_image: LEMONADE_cat,
         addel: "Bar"
     },{
@@ -492,7 +477,7 @@ export const menu_list = [
     
 
 ]
-
+//Menu itames
 export const food_list = [
     {
         _id: "1",
@@ -557,7 +542,7 @@ export const food_list = [
     {
         _id: "6",
         name: "Omelette 4 cheeses",
-        name_uk: "Омлет 4 сири",
+        name_uk: "Омлет 4 сира",
         image: Omelette_4_cheeses,
         gram: 250,
         price: 201,
@@ -761,7 +746,7 @@ export const food_list = [
     }, {
         _id: "23",
         name: "Hot Hummus",
-        name_uk: "Хумус Госерий",
+        name_uk: "Хумус Гострий",
         image: Hot_Hummus,
         gram: '150 / 80',
         price: 186,
@@ -783,7 +768,7 @@ export const food_list = [
     }, {
         _id: "25",
         name: "Basil Hummus",
-        name_uk: "Хумус з Базиліком",
+        name_uk: "Хумус з базиліком",
         image: Basil_Hummus,
         gram: '150 / 80',
         price: 212,
@@ -948,7 +933,7 @@ export const food_list = [
     }, {
         _id: "40",
         name: "Carbonara chicken",
-        name_uk: "Карбонара курка",
+        name_uk: "Карбонара з куркою",
         image: Carbonara_chicken,
         gram: 350,
         price: 304,
@@ -959,7 +944,7 @@ export const food_list = [
     }, {
         _id: "41",
         name: "Veal Carbonara",
-        name_uk: "Карбонара телятина",
+        name_uk: "Карбонара з телятиною",
         image: Veal_Carbonara,
         gram: 350,
         price: 396,
@@ -990,9 +975,20 @@ export const food_list = [
 
         category: "MAIN COURSE"
     }, {
+        _id: "43",
+        name: "Seafood Saute",
+        name_uk: "Соте з морепродуктами",
+        image: Seafood_Saute,
+        gram: 600,
+        price: 724,
+        description: "",
+        description_uk: "",
+
+        category: "MAIN COURSE"
+    }, {
         _id: "44",
         name: "Lamb shashlik",
-        name_uk: "Шашлик з Баранини",
+        name_uk: "Шашлик з баранини",
         image: Lamb_shashlik,
         gram: '200 / 100 / 75',
         price: 343,
@@ -1003,7 +999,7 @@ export const food_list = [
     }, {
         _id: "45",
         name: "Veal Shashlik",
-        name_uk: "Шашлик з Телятини",
+        name_uk: "Шашлик з телятини",
         image: Veal_Shashlik,
         gram: '200 / 100 / 75',
         price: 454,
@@ -1025,7 +1021,7 @@ export const food_list = [
     }, {
         _id: "47",
         name: "Lamb rack (weight dish)",
-        name_uk: "Каре БараниНИ (вагова страва)",
+        name_uk: "Каре Баранини (вагова страва)",
         image: Lamb_rack,
         gram: '100 / 100 / 50',
         price: 779,
@@ -1069,7 +1065,7 @@ export const food_list = [
     }, {
         _id: "51",
         name: "Veal kebab",
-        name_uk: "Кебаб телятини",
+        name_uk: "Кебаб з телятини",
         image: Lamb_kebab,
         gram: '200 / 100 / 75',
         price: 294,
@@ -1080,7 +1076,7 @@ export const food_list = [
     }, {
         _id: "52",
         name: "Chicken Kebab",
-        name_uk: "Кебаб курки",
+        name_uk: "Кебаб з курки",
         image: Chicken_Kebab,
         gram: '200 / 100 / 75',
         price: 288,
@@ -1143,22 +1139,10 @@ export const food_list = [
         description_uk: "",
 
         category: "GRILL"
-    },
-    {
-        _id: "58",
-        name: "Grilled Potatos",
-        name_uk: "Картопля на мангалі",
-        image: Grilled_Potatos,
-        gram: 300,
-        price: 140,
-        description: "",
-        description_uk: "",
-
-        category: "GRILL"
     }, {
         _id: "59",
         name: "Ribeye steak with a side dish",
-        name_uk: "Стейк Рібай з гарніром",
+        name_uk: "Стейк Рібай ",
         image: RibEye_steak,
         gram: '300 / 100',
         price: 1094,
@@ -1169,7 +1153,7 @@ export const food_list = [
     }, {
         _id: "60",
         name: "T-bone steak, USA with a side dish",
-        name_uk: "Стейк Тібон з американської яловичини з гарніром",
+        name_uk: "Стейк Тібон з американської яловичини ",
         image: Tbone_steak,
         gram: '300 / 100',
         price: 1094,
@@ -1195,17 +1179,6 @@ export const food_list = [
         image: Lamb_rack_set,
         gram: '650 / 200',
         price: 1522,
-        description: "",
-        description_uk: "",
-
-        category: "GRILL"
-    }, {
-        _id: "63",
-        name: "Seafood Saute",
-        name_uk: "Соте з морепродуктами",
-        image: Seafood_Saute,
-        gram: 600,
-        price: 724,
         description: "",
         description_uk: "",
 
@@ -1332,12 +1305,67 @@ export const food_list = [
 
         category: "HOT APPETIZERS"
     }, {
+        _id: "68",
+        name: "Sambusiki with meat",
+        name_uk: "Самбусіки з м'ясом",
+        image:noimg ,
+        gram: 200,
+        price: 205,
+        description: "",
+        description_uk: "",
+
+        category: "HOT APPETIZERS"
+    },{
+        _id: "68",
+        name: "Sambusiki with cheese",
+        name_uk: "Самбусіки з сиром",
+        image: noimg,
+        gram: 200,
+        price: 205,
+        description: "",
+        description_uk: "",
+
+        category: "HOT APPETIZERS"
+    },{
+        _id: "68",
+        name: "Sambusiki with spinach",
+        name_uk: "Самбусіки з шпинатом",
+        image: noimg,
+        gram: 200,
+        price: 205,
+        description: "",
+        description_uk: "",
+
+        category: "HOT APPETIZERS"
+    },{
+        _id: "68",
+        name: "Sambusiki assorted",
+        name_uk: "Самбусіки асорті",
+        image: noimg,
+        gram: 500,
+        price: 423,
+        description: "",
+        description_uk: "",
+
+        category: "HOT APPETIZERS"
+    },{
+        _id: "68",
+        name: "Beer plate",
+        name_uk: "Пивна тарілка",
+        image: noimg,
+        gram: 400,
+        price: 487,
+        description: "",
+        description_uk: "",
+
+        category: "HOT APPETIZERS"
+    },{
         _id: "69",
         name: "Pidet with chicken, mushroom and cheese",
         name_uk: "Піде з куркою, грибами та сиром",
         image: Pidet_with_chicken,
         gram: 400,
-        price: 536,
+        price: 358,
         description: "",
         description_uk: "",
 
@@ -1497,23 +1525,12 @@ export const food_list = [
 
         category: "SIDES"
     }, {
-        _id: "84",
-        name: "Boiled Potatoes",
-        name_uk: "Картопля відварна",
-        image: Boiled_Potatoes,
-        gram: 200,
-        price: 92,
-        description: "",
-        description_uk: "",
-
-        category: "SIDES"
-    }, {
         _id: "85",
-        name: "Roasted Potato Wedges",
-        name_uk: "Картопля по-селянськи",
+        name: "Potato dips",
+        name_uk: "Діпи",
         image: Roasted_Potato,
         gram: '200 / 50',
-        price: 106,
+        price: 133,
         description: "",
         description_uk: "",
 
@@ -1576,21 +1593,10 @@ export const food_list = [
 
         category: "SAUCES"
     }, {
-        _id: "91",
-        name: "Pesto",
-        name_uk: "Песто",
-        image: Pesto_Sauce,
-        gram: 40,
-        price: 67,
-        description: "",
-        description_uk: "",
-
-        category: "SAUCES"
-    }, {
         _id: "92",
-        name: "Fish Sauce",
-        name_uk: "Рибний",
-        image: Fish_Sauce,
+        name: "Cheese",
+        name_uk: "Сирний",
+        image: Mayonnaise_Sauce,
         gram: 40,
         price: 67,
         description: "",
@@ -1755,17 +1761,6 @@ export const food_list = [
 
         category: "DESSERTS"
     }, {
-        _id: "105",
-        name: "Fruit salad",
-        name_uk: "Фруктовий салат",
-        image: Fruit_salad,
-        gram: 300,
-        price: 153,
-        description: "",
-        description_uk: "",
-
-        category: "DESSERTS"
-    }, {
         _id: "106",
         name: "Forenoir fruity ",
         name_uk: "Форенуар фруктовий ",
@@ -1835,6 +1830,61 @@ export const food_list = [
     //Bar
     {
         _id: "111",
+        name: "Alazani Valley",
+        name_uk: "Алазанська долина",
+        image: noimg,
+        gram: 0.15+"L",
+        price: 168,
+        description: "WHITE/GEORGIA",
+        description_uk: "БІЛЕ/ГРУЗІЯ",
+
+        category: "WINE"
+    },{
+        _id: "111",
+        name: "Alazani Valley",
+        name_uk: "Алазанська долина",
+        image:noimg ,
+        gram: 0.15+"L",
+        price: 168,
+        description: "RED/GEORGIA",
+        description_uk: "ЧЕРВОНЕ/ГРУЗІЯ",
+
+        category: "WINE"
+    },{
+        _id: "111",
+        name: "Saperavi",
+        name_uk: "Сапераві",
+        image: noimg,
+        gram: 0.15+"L",
+        price: 248,
+        description: "RED/GEORGIA",
+        description_uk: "ЧЕРВОНЕ/ГРУЗІЯ",
+
+        category: "WINE"
+    },{
+        _id: "111",
+        name: "Mukuzani",
+        name_uk: "Мукузані",
+        image: noimg,
+        gram: 0.15+"L",
+        price: 268,
+        description: "RED/GEORGIA",
+        description_uk: "ЧЕРВОНЕ/ГРУЗІЯ",
+
+        category: "WINE"
+    },{
+        _id: "111",
+        name: "Kindzmarauli",
+        name_uk: "Кіндзмараулі",
+        image: noimg,
+        gram: 0.15+"L",
+        price: 268,
+        description: "RED/GEORGIA",
+        description_uk: "ЧЕРВОНЕ/ГРУЗІЯ",
+
+        category: "WINE"
+    },{
+        _id: "111",
         name: "Dourthe No1 Bordeaux Rouge",
         name_uk: "Dourthe No1 Bordeaux Rouge",
         image: Dourthe_No1_Bordeaux_Rouge,
@@ -1893,17 +1943,6 @@ export const food_list = [
         name: "Latinium Riesling -spill",
         name_uk: "Latinium Riesling -розлив",
         image: Latinium_Riesling,
-        gram: 0.150+"L",
-        price: 189,
-        description: "WHITE ",
-        description_uk: "БІЛЕ ",
-
-        category: "WINE"
-    },{
-        _id: "116",
-        name: "Latinium Gewurztraminer -spill",
-        name_uk: "Latinium Gewurztraminer -розлив",
-        image: Latinium_Gewurztraminer,
         gram: 0.150+"L",
         price: 189,
         description: "WHITE ",
@@ -2036,15 +2075,15 @@ export const food_list = [
         category: "APERETIF  BITTER TINCTURE"
     },{
         _id: "128",
-        name: "Artichoke Supag",
-        name_uk: "Супаг артишоковий",
-        image: noimg,
+        name: "becherovka",
+        name_uk: "becherovka",
+        image: TINCTURES_cat,
         gram: 0.05+"L",
-        price: 159,
+        price: 132,
         description: "",
         description_uk: "",
 
-        category: "APERETIF  BITTER TINCTURE"
+        category: "APERETIF  BITTER TINCTURES"
     },
     //ГОРІЛКА/VODKA
     {
@@ -2113,17 +2152,6 @@ export const food_list = [
         description_uk: "",
 
         category: "VODKA"
-    },{
-        _id: "135",
-        name: "becherovka",
-        name_uk: "becherovka",
-        image: TINCTURES_cat,
-        gram: 0.05+"L",
-        price: 132,
-        description: "",
-        description_uk: "",
-
-        category: "TINCTURES"
     },
     //POM/RUM
     
@@ -2185,20 +2213,9 @@ export const food_list = [
 
         category: "RUM"
     },
-    //мескаль
-    {
-        _id: "141",
-        name: "vida",
-        name_uk: "vida",
-        image: MEZCAL_cat,
-        gram: 0.05+"L",
-        price: 303,
-        description: "",
-        description_uk: "",
-
-        category: "MEZCAL"
-    },
-    //ТЕКІЛА /TEQUILA
+    
+    
+    //ТЕКІЛА та МЕСКАЛЬ /TEQUILA,MEZCAL
     
 
 
@@ -2247,6 +2264,17 @@ export const food_list = [
         description_uk: "",
     
         category: "TEQUILA"
+    },{
+        _id: "141",
+        name: "vida",
+        name_uk: "vida",
+        image: MEZCAL_cat,
+        gram: 0.05+"L",
+        price: 303,
+        description: "",
+        description_uk: "",
+
+        category: "MEZCAL"
     },
     //ДЖИН/GIN
     {
@@ -2254,6 +2282,18 @@ export const food_list = [
         name: "TGordon's Premium Pink",
         name_uk: "TGordon's Premium Pink",
         image: TGordons_Premium_Pink,
+        gram: 0.05+"L",
+        price: 161,
+        description: "",
+        description_uk: "",
+    
+        category: "GIN"
+
+    },{
+        _id: "146",
+        name: "TGordon's London Dry ",
+        name_uk: "TGordon's London Dry",
+        image: noimg,
         gram: 0.05+"L",
         price: 161,
         description: "",
@@ -2284,43 +2324,8 @@ export const food_list = [
     
         category: "GIN"
     },
-    //BRANDY, CALVADOS, GRAPPA
 
-    {
-        _id: "149",
-        name: "Metaxa 7 Star",
-        name_uk: "Metaxa 7 Star",
-        image: Metaxa_7_Star,
-        gram: 0.05+"L",
-        price: 152,
-        description: "",
-        description_uk: "",
-    
-        category: "BRANDY CALVADOS GRAPPA"
-    },{
-        _id: "150",
-        name: "Metaxa 12 Stars",
-        name_uk: "Metaxa 12 Stars",
-        image: metaxa_12_stars,
-        gram: 0.05+"L",
-        price: 240,
-        description: "",
-        description_uk: "",
-    
-        category: "BRANDY CALVADOS GRAPPA"
-    },{
-        _id: "151",
-        name: "Calvados Paul Devoille VSOP",
-        name_uk: "Calvados Paul Devoille VSOP",
-        image: Calvados_Paul_Devoille_VSOP,
-        gram: 0.05+"L",
-        price: 159,
-        description: "",
-        description_uk: "",
-    
-        category: "BRANDY CALVADOS GRAPPA"
-    },
-    //Коньяк/СOGNAC
+    //Коньяк Бренді/СOGNAC BRANDY
     {
         _id: "152",
         name: "Rémy Martin VS Superieur",
@@ -2331,7 +2336,7 @@ export const food_list = [
         description: "",
         description_uk: "",
     
-        category: "СOGNAC"
+        category: "СOGNAC BRANDY"
     },{
         _id: "153",
         name: "Rémy Martin VSOP",
@@ -2342,7 +2347,7 @@ export const food_list = [
         description: "",
         description_uk: "",
     
-        category: "СOGNAC"
+        category: "СOGNAC BRANDY"
     },{
         _id: "154",
         name: "Hennessy Very Special",
@@ -2353,7 +2358,7 @@ export const food_list = [
         description: "",
         description_uk: "",
     
-        category: "СOGNAC"
+        category: "СOGNAC BRANDY"
     },{
         _id: "155",
         name: "Hennessy VSOP Privilège",
@@ -2364,7 +2369,7 @@ export const food_list = [
         description: "",
         description_uk: "",
     
-        category: "СOGNAC"
+        category: "СOGNAC BRANDY"
     },{
         _id: "156",
         name: "Ararat 5 stars",
@@ -2375,7 +2380,29 @@ export const food_list = [
         description: "",
         description_uk: "",
     
-        category: "СOGNAC"
+        category: "СOGNAC BRANDY"
+    },{
+        _id: "156",
+        name: "Metaxa 7 Star",
+        name_uk: "Metaxa 7 Star",
+        image: Metaxa_7_Star,
+        gram: 0.05+"L",
+        price: 152,
+        description: "",
+        description_uk: "",
+    
+        category: "СOGNAC BRANDY"
+    },{
+        _id: "156",
+        name: "Metaxa 12 Stars",
+        name_uk: "Metaxa 12 Stars",
+        image: metaxa_12_stars,
+        gram: 0.05+"L",
+        price: 240,
+        description: "",
+        description_uk: "",
+    
+        category: "СOGNAC BRANDY"
     },{
         _id: "157",
         name: "Johnnie Walker Red Label",
@@ -2383,17 +2410,6 @@ export const food_list = [
         image: noimg,
         gram: 0.05+"L",
         price: 171,
-        description: "SCOTCH",
-        description_uk: "ШОТЛАНДСЬКИЙ",
-    
-        category: "WHISKEY"
-    },{
-        _id: "158",
-        name: "Johnnie Walker Red Rye Finish",
-        name_uk: "Johnnie Walker Red Rye Finish",
-        image: noimg,
-        gram: 0.05+"L",
-        price: 173,
         description: "SCOTCH",
         description_uk: "ШОТЛАНДСЬКИЙ",
     
@@ -2488,8 +2504,8 @@ export const food_list = [
         category: "WHISKEY"
     },{
         _id: "167",
-        name: "Macallan",
-        name_uk: "Macallan",
+        name: "Macallan 12",
+        name_uk: "Macallan 12",
         image: noimg,
         gram: 0.05+"L",
         price: 532,
@@ -2586,18 +2602,8 @@ export const food_list = [
         description_uk: "TEHECI",
     
         category: "WHISKEY"
-    },{
-        _id: "176",
-        name: "Crown Royal De Luxe",
-        name_uk: "Crown Royal De Luxe",
-        image: noimg,
-        gram: 0.05+"L",
-        price: 212,
-        description: "CANADA",
-        description_uk: "КАНАДСЬКИЙ",
-    
-        category: "WHISKEY"
     },
+
     //ICE COLD SHOT
     {
         _id: "177",
@@ -2706,8 +2712,8 @@ export const food_list = [
     //ПИВО /BEER
     {
         _id: "186",
-        name: "kronenbourg",
-        name_uk: "kronenbourg",
+        name: "Kronenbourg light",
+        name_uk: "Кronenbourg світле ",
         image: noimg,
         gram: "0,33/0,5L",
         price: "107/163",
@@ -2715,21 +2721,10 @@ export const food_list = [
         description_uk: "",
     
         category: "BEER"
-    }, {
-        _id: "187",
-        name: "blond",
-        name_uk: "blond",
-        image: noimg,
-        gram: "0,33/0,5L",
-        price: "70/106",
-        description: "",
-        description_uk: "",
-    
-        category: "BEER"
     },{
         _id: "188",
-        name: "blanche",
-        name_uk: "blanche",
+        name: "Grimbergen blanche",
+        name_uk: "Grimbergen blanche",
         image: noimg,
         gram: "0,33/0,5L",
         price: "123/187",
@@ -2775,7 +2770,7 @@ export const food_list = [
         name: "Guinness",
         name_uk: "Guinness",
         image: noimg,
-        gram: "0,5L",
+        gram: "0,33L",
         price: "170",
         description: "BEER BOTTLED",
         description_uk: "ПИВО ПЛЯШКОВЕ",
@@ -2786,7 +2781,7 @@ export const food_list = [
         name: "Warsteiner Premium Fresh 6/a",
         name_uk: "Warsteiner Premium Fresh 6/a",
         image: noimg,
-        gram: "0,5L",
+        gram: "0,33L",
         price: "189",
         description: "BEER BOTTLED",
         description_uk: "ПИВО ПЛЯШКОВЕ",
@@ -2821,7 +2816,7 @@ export const food_list = [
         name: "JSchweppes Тонік",
         name_uk: "JSchweppes Тонік",
         image: noimg,
-        gram: "0.20L",
+        gram: "0.33L",
         price: 95,
         description: "",
         description_uk: "",
@@ -2962,17 +2957,6 @@ export const food_list = [
     
         category: "Fresh Juices"
     },{
-        _id: "208",
-        name: "Pomegranate fresh",
-        name_uk: "Гранатовий",
-        image: noimg,
-        gram: "0.25L",
-        price: 467,
-        description: "",
-        description_uk: "",
-    
-        category: "Fresh Juices"
-    },{
         _id: "209",
         name: "Orange fresh",
         name_uk: "Апельсиновий",
@@ -3017,17 +3001,6 @@ export const food_list = [
     
         category: "Fresh Juices"
     },{
-        _id: "213",
-        name: "Carrot fresh",
-        name_uk: "Морквяний",
-        image: noimg,
-        gram: "0.25L",
-        price: 139,
-        description: "",
-        description_uk: "",
-    
-        category: "Fresh Juices"
-    },{
         _id: "214",
         name: "Mix fresh",
         name_uk: "Мікс фреш",
@@ -3060,17 +3033,6 @@ export const food_list = [
         price: 143,
         description: "Soda,lemon fresh,syrup tarragon, fresh basil goji berries",
         description_uk: "Содова, сироп тархун, свіжий базилік,лимон",
-    
-        category: "LEMONADE"
-    },{
-        _id: "217",
-        name: "Natakhtari",
-        name_uk: "Натахтарі груша",
-        image: noimg,
-        gram: "0.3L",
-        price: 151,
-        description: "",
-        description_uk: "",
     
         category: "LEMONADE"
     },{
@@ -3800,8 +3762,8 @@ export const food_list = [
         category: "COFFEE"
     },{
         _id: "287",
-        name: "Cocoa with cream and biscuits",
-        name_uk: "Какао з вершками та печивом",
+        name: "Cocoa",
+        name_uk: "Какао",
         image: noimg,
         gram: "",
         price: 100,
@@ -3810,7 +3772,6 @@ export const food_list = [
         category: "COFFEE"
     }
 ]
-
 
 
 
